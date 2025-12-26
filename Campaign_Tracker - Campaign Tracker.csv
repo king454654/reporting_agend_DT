@@ -1,5 +1,5 @@
 CID,Campaign_Name,Advertiser,CSM,Start_Date,End_Date,Status,Analyst,SLA_Acknowledged,Trafficking_Completed,QA_Checked,Live_Confirmation,Campaign_ID
-299896,ACTR - Speed Medya TR - Bim TR - Sep17 - Sep18,Bim TR,, ,9/18/25,Completed,Peddakotla Raviteja,Yes,,,,299896
+299896,ACTR - Speed Medya TR - Bim TR - Sep17 - Sep18,Bim TR,,9/17/25 ,9/18/25,Completed,Peddakotla Raviteja,Yes,,,,299896
 299879,ACSR - Publicis Media SRB EMEA_Samsung Serbia - Sep9 - Sep30,Samsung Serbia,,9/9/25,9/30/25,Completed,Mohamed Arsath,Yes,,,,299879
 299928,ACKR - Netpeak Kazakhstan EMEA - Asbis Kazakhstan - Sep20 - Sep30,Asbis Kazakhstan,,9/20/25,9/30/25,Completed,Mohamed Arsath,Yes,,,,299928
 299921,ACCS - Group M - Lâ€™Oreal CZ - Sep17 - Sep30 - CZ,L'Oreal CZ,,9/17/25,9/30/25,Completed,Rajesh Kumar,Yes,,,,299921
@@ -252,4 +252,5 @@ CID,Campaign_Name,Advertiser,CSM,Start_Date,End_Date,Status,Analyst,SLA_Acknowle
 300263,ACTR - Speed Medya TR - BiM TR - Dec17 - Dec19,Speed Medya,,12/17/25,12/19/25,Completed,,,,,,
 300260,ACRS - New Moment Telekom - Dec12 - Dec31,New Moment,,12/17/25,12/31/25,Completed,,,,,,
 300261,ACSK - Slovak Telekom Xmas - Dec11 - Dec31,Slovak Telekom Xmas,,12/17/25,12/31/25,Completed,,,,,,
+
 300262,ACSK - Slovak Telekom Xmas - Dec11 - Dec31 (Added Value),Slovak Telekom Xmas,,12/17/25,12/31/25,Completed,,,,,,
