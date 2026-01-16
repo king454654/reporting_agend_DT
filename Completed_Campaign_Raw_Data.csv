@@ -1,0 +1,654 @@
+ID,Name,Start_Date,End_Date,Price_Model,Total_Limit_Salesforce,Campaign_Delivery_Status,Daily_Limit,Total_Limit,Impressions,CVVs,Delivered,VCR,Vlook_up,Account_Manager     ,Placement_IDs,Analyst,Booked_Limit
+300163,ACKZ - Publicis Lego Friends - 20Nov - 30Dec,11/21/2025,12/30/2025,CPCV,,Delivered in Full,"33,000","1,285,500","1,440,742","1,286,260",1,,300163,Sesil Kaprilyan,C-003571,Asli Ero,1275000
+300139,ACTR - Ingage TR EMEA - Ford TR - Nov17 - Dec30,11/18/2025,12/30/2025,CPCV,,Not Delivered in Full,"22,000","1,075,000","898,171","848,049",0.79,,300139,Gencay Evren,C-003503,Rajesh Kumar,1071429
+300179,ACTR - Vivaki TR EMEA - Lego TR - Nov24 - Dec30,11/25/2025,12/30/2025,CPCV,,Delivered in Full,"3,000","460,000","495,988","460,022",1,,300179,Gencay Evren,C-003587,Rajesh Kumar,454545
+300202,ACTR - Staff Media TR - Turkcell TR - Dec1 - Dec31,45669,12/30/2025,CPCV,,Delivered in Full,"40,000","1,230,000","1,427,650","1,230,423",1,,300202,Yesim Utku,C-003617,Rajesh Kumar,1228070
+300247,ACKZ - Publicis Lego Friends - 20Nov - 30Dec (Added Value),45973,12/30/2025,CPCV,,Delivered in Full,"26,000","510,000","549,535","510,192",1,,300247,Sesil Kaprilyan,C-003666,Asli Ero,500000
+300233,ACTR - EssenceMediacom TR EMEA - Volkswagen TR - Dec5 - Dec29,45881,12/29/2025,CPCV,"666,667",Not Delivered in Full,"160,000","3,210,000","10,365","9,267",0,,#N/A,Not Found,Not Found,Not Found,Not Found
+300241,ACTR - EssenceMediacom TR EMEA - Volkswagen TR - Dec11 - Dec29 - Tcross,45973,12/29/2025,CPCV,,Not Delivered in Full,"83,000","1,610,000","1,374,670","1,285,625",0.8,,,Yesim Utku,C-003694,Rajesh Kumar,1602467
+300242,ACTR - EssenceMediacom TR EMEA - Volkswagen TR - Dec11 - Dec29 - Taigo,45973,12/29/2025,CPCV,,Not Delivered in Full,"83,000","1,610,000","1,361,848","1,278,056",0.79,,,Yesim Utku,C-003695,Rajesh Kumar,1600000
+300265,ACTR - Speed Medya TR - BiM TR - Dec18 - Dec29,12/18/2025,12/29/2025,CPCV,,Delivered in Full,"19,000","360,000","386,481","360,107",1,,300265,Yesim Utku,C-003701,Rajesh Kumar,357143
+300219,ACSK - Kasino Tipos - Dec1 - Dec28,45759,12/28/2025,CPCV,,Delivered in Full,"10,000","205,881","232,407","205,936",1,,300219,Sesil Kaprilyan,C-003619,Asli Ero,196078
+300243,ACTR - Ingage TR EMEA -Opet TR - Dec11 - Dec28,45973,12/28/2025,CPCV,,Delivered in Full,"73,000","1,260,000","1,373,669","1,260,416",1,,300243,Yesim Utku,C-003623,Rajesh Kumar,1250000
+300285,ACTR - Speed Medya TR - BiM TR - Dec27 - Dec28,12/27/2025,12/28/2025,CPCV,,Delivered in Full,"500,000","715,000","795,859","721,583",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+300204,ACTR - Ingage TR EMEA - Ford Trucks Global TR - Dec1 - Dec27 - Turkey,45728,12/27/2025,CPCV,,Delivered in Full,"80,000","2,009,010","2,257,822","2,009,476",1,,300204,Yesim Utku,C-003498,Rajesh Kumar,1904762
+300216,ACTR - Ingage TR EMEA - Ford Trucks Global TR - Dec1 - Dec27 - Italy,45728,12/27/2025,CPCV,,Delivered in Full,"15,000","430,000","467,696","430,040",1,,300216,Yesim Utku,C-003501,Rajesh Kumar,428571
+300217,ACTR - Ingage TR EMEA - Ford Trucks Global TR - Dec1 - Dec27 - Germany,45728,12/27/2025,CPCV,,Delivered in Full,"22,000","617,000","656,627","617,119",1,,300217,Yesim Utku,C-003499,Rajesh Kumar,615385
+300218,ACTR - Ingage TR EMEA - Ford Trucks Global TR - Dec1 - Dec27 - France,45728,12/27/2025,CPCV,,Delivered in Full,"20,000","575,000","629,481","575,096",1,,300218,Yesim Utku,C-003500,Rajesh Kumar,571429
+300250,ACTR - OMD TR EMEA - Apple TR - Dec12 - Dec27,46003,12/27/2025,CPM,,Delivered in Full,"70,000","1,160,000","1,160,303","1,057,459",1,,300250,Yesim Utku,C-003651,Rajesh Kumar,1153846
+300244,ACME - Arab United Bank - Kijami - Dec11 - Dec26,45973,12/26/2025,CPCV,,Delivered in Full,"20,500","310,000","346,129","310,094",1,,300244,Idil Yurtan,C-003636,Mohamed Arsath,300000
+300246,ACME - Arab United Bank - Kijami - Dec11 - Dec26 - Added Value,45973,12/26/2025,CPCV,,Delivered in Full,"3,000","45,000","49,909","45,026",1,,300246,Idil Yurtan,C-003637,Mohamed Arsath,45000
+300282,ACTR - Speed Medya TR - BiM TR - Dec24 - Dec26,12/24/2025,12/26/2025,CPCV,,Delivered in Full,"300,000","715,000","783,454","716,787",1,,300282,Yesim Utku,C-003720,Rajesh Kumar,714286
+300046,ACCZ - OrlenGroup CZ - 15Oct - 25Dec,10/22/2025,12/25/2025,CPCV,,Not Delivered in Full,"5,468","335,000","282,158","261,061",0.78,,300046,Sesil Kaprilyan,C-003285,Asli Ero,333333
+300159,ACHR - Orbico_Hot Wheels_Barbie - 20Nov - 25Dec,11/20/2025,12/25/2025,CPCV,,Delivered in Full,"12,000","525,000","702,770","525,070",1,,300159,Sesil Kaprilyan,C-003558,Asli Ero,500000
+300254,ACCZ - Sazka Vanoce Losy - Dec8 - Dec24,46003,12/24/2025,CPCV,,Delivered in Full,"36,000","376,666","411,993","379,007",1.01,,300254,Sesil Kaprilyan,C-003669,Asli Ero,366666
+300277,ACRS - OMD SRB EMEA - Chipsy BA - Dec23,12/23/2025,12/23/2025,CPCV,,Not Delivered in Full,"10,000","15,000","12,184","11,413",0.76,,#N/A,Not Found,Not Found,Not Found,Not Found
+300239,ACBE - SpaceFwd - Burger King - Dec10 - Dec22,45942,12/22/2025,CPCV,,Not Delivered in Full,"30,000","350,000","196,636","186,952",0.53,,300239,Emirhan,C-003639,Mohamed Arsath,333557
+300058,ACSK - Nestle CiniMinis SK - 27Oct - 21Dec,10/27/2025,12/21/2025,CPCV,,Delivered in Full,"8,000","385,000","414,691","385,041",1,,300058,Sesil Kaprilyan,C-003370,Asli Ero,373750
+300168,ACTR - Vivaki TR EMEA - Lego TR - Nov24 - Dec21,11/24/2025,12/21/2025,CPCV,,Delivered in Full,"45,000","1,365,000","1,477,342","1,365,276",1,,300168,Gencay Evren,C-003572,Rajesh Kumar,1363636
+300270,ACTR - Speed Medya TR - BiM TR - Dec20 - Dec21,12/20/2025,12/21/2025,CPCV,,Delivered in Full,"500,000","715,000","800,560","722,796",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+300162,ACRS - Chipsy RS - Dec1 - Dec20,45669,12/20/2025,CPCV,,Delivered in Full,"16,000","243,333","264,573","243,556",1,,300162,Sesil Kaprilyan,C-003507,Asli Ero,233333
+300045,ACRS - Neptun Albania - 21Oct - 19Dec,10/22/2025,12/19/2025,CPCV,,Delivered in Full,"3,620","210,000","236,410","210,010",1,,300045,Sesil Kaprilyan,C-003290,Asli Ero,200000
+300249,ACTR - Speed Medya TR - BiM TR - Dec12 - Dec19,46003,12/19/2025,CPCV,,Delivered in Full,"40,000","360,000","409,206","360,227",1,,300249,Yesim Utku,C-003682,Rajesh Kumar,357143
+300263,ACTR - Speed Medya TR - BiM TR - Dec17 - Dec19,12/17/2025,12/19/2025,CPCV,,Delivered in Full,"400,000","720,000","801,901","723,543",1,,300263,Yesim Utku,C-003696,Rajesh Kumar,714286
+300175,ACRS - Neptun Black Friday - Nov21 - Dec18,11/24/2025,12/18/2025,CPCV,,Delivered in Full,"10,000","210,000","242,831","210,063",1,,300175,Sesil Kaprilyan,C-003584,Asli Ero,200000
+300022,ACRS - Tinex MK - 20Oct - 18Dec,10/19/2025,12/18/2025,CPCV,,Delivered in Full,"4,725","283,500","315,655","283,527",1,,300022,Sesil Kaprilyan,C-003257,Asli Ero,270000
+299903,ACLAUS - Wavamaker USH - Danone Activia Sep18 - Dec18,9/17/2025,12/18/2025,CPM,,Delivered in Full,"200,000","6,300,000","6,310,095","5,932,388",1,,299903,Idil Yurtan,C-002761,Mohamed Arsath,6000000
+300059,ACTR - Yapi Kredi TR - 28Oct - 15Dec,10/27/2025,12/15/2025,CPCV,,Delivered in Full,"90,000","970,000","1,079,230","970,117",1,,300059,Gencay Evren,C-003402,Rajesh Kumar,966543
+300164,ACTR - Vivaki TR EMEA - Lego TR - Nov24 - Dec15,11/24/2025,12/15/2025,CPCV,,Not Delivered in Full,"27,000","685,000","738,305","684,801",1,,300164,Gencay Evren,C-003570,Rajesh Kumar,681818
+300238,ACTR - Speed Medya TR - BiM TR - Dec10 - Dec15,45942,12/15/2025,CPCV,,Not Delivered in Full,"80,000","375,000","404,779","374,407",1,,300238,Yesim Utku,C-003654,Rajesh Kumar,357143
+300183,ACSK - VUB Bank - Nov21 - Dec14,11/25/2025,12/14/2025,CPCV,,Not Delivered in Full,"16,000","264,706","299,001","263,726",1,,300183,Sesil Kaprilyan,C-003581,Asli Ero,252101
+300113,ACTR - OMD TR EMEA - Apple TR - Nov13 - Dec14,11/13/2025,12/14/2025,CPM,,Delivered in Full,"18,000","780,000","780,096","707,901",1,,300113,Yesim Utku,C-003462,Rajesh Kumar,769231
+300252,ACTR - Speed Medya TR - BiM TR - Dec13 - Dec14,12/13/2025,12/14/2025,CPCV,,Delivered in Full,"550,000","715,000","812,465","720,658",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+300237,ACTR - Speed Medya TR - BiM TR - Dec10 - Dec12,45942,46003,CPCV,,Delivered in Full,"380,000","937,500","1,029,351","940,996",1,,300237,Yesim Utku,C-003653,Rajesh Kumar,892857
+300013,ACRS - Zlatna Kopacka MK - 17Oct - 10Dec,10/16/2025,45942,CPCV,,Not Delivered in Full,"38,000","210,000","239,469","202,784",0.97,,300013,Sesil Kaprilyan,C-003255,Asli Ero,200000
+300105,ACME - Havas Media ME - Shell - Nov10 - Dec10,45972,45942,CPCV,,Delivered in Full,"10,200","498,068","593,733","498,129",1,,300105,Gencay Evren,C-003427,Rajesh Kumar,474350
+300106,ACME - Havas Media ME - Shell - Nov10 - Dec10 - AV,45972,45942,CPCV,,Delivered in Full,"3,000","99,614","117,001","99,644",1,,300106,Gencay Evren,C-003428,Rajesh Kumar,94870
+300116,ACME - Havas Media ME - Shell - Nov10 - Dec10 - BLS,11/13/2025,45942,CPM,,Delivered in Full,"2,000","50,000","50,012","46,710",1,,300116,Gencay Evren,-,Rajesh Kumar,50000
+300176,ACME - OMD Egypt - McDonald's - Nov16 - Dec08,11/24/2025,45881,CPCV,,Delivered in Full,"25,000","415,000","480,769","417,900",1.01,,300176,Gencay Evren,C-003586,Rajesh Kumar,400000
+300177,ACME - OMD Egypt - McDonald's - Nov16 - Dec08 - AV,11/24/2025,45881,CPCV,,Delivered in Full,"3,700","61,000","68,508","61,029",1,,300177,Gencay Evren,C-003585,Rajesh Kumar,60000
+300034,ACUK - UK GOV - LTHC - Oct20 - Dec7,10/19/2025,45850,CPCV,,Delivered in Full,"150,000","2,350,000","2,536,059","2,351,060",1,,300034,NA,C-003289,DT,2245586
+300194,ACRO - Warner Bros Romania - HTTPOOL - Nov28 - Dec7,11/28/2025,45850,CPM,,Delivered in Full,"28,000","260,000","260,159",0,1,,300194,Idil Yurtan,C-003608,Mohamed Arsath,250000
+300222,ACTR - Speed Medya TR - BiM TR - Dec6 - Dec7,45820,45850,CPCV,,Delivered in Full,"500,000","715,000","805,281","722,261",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+300036,ACCZ - Group M CZ - Investona - 10Oct - 30Nov,10/22/2025,45789,CPCV,,Delivered in Full,"1,500","458,000","506,597","458,001",1,,300036,Sesil Kaprilyan,C-003274,Asli Ero,366666
+300212,ACTR - Speed Medya TR - BiM TR - Dec3 - Dec5,45728,45789,CPCV,,Delivered in Full,"300,000","720,000","783,786","721,913",1,,300212,Yesim Utku,C-003624,Rajesh Kumar,714286
+300191,ACKZ - Reckitt Benkiser - Nov25 - Dec2,11/27/2025,45700,CPCV,,Delivered in Full,"28,000","52,500","60,128","52,703",1,,300191,Yesim Utku,C-003597,Asli Ero,50000
+299868,ACUK - GOV UK - ICS This Girl Can - Sep10Nov30,45909,11/30/2025,CPCV,,Not Delivered in Full,"23,000","1,581,040","1,530,772","1,463,796",0.93,,299868,NA,C-002769,DT,1581040
+300074,ACUSH - Mcdonalds - EMV - Nov4 - Nov30,45758,11/30/2025,CPM,,Delivered in Full,"140,000","2,510,000","2,510,502","2,444,749",1,,300074,Idil Yurtan,C-003281,Mohamed Arsath,2500000
+300091,ACUK - T7S - Ladbrokes - Oct1 - Dec31 - BLS,45849,11/30/2025,CPM,,Delivered in Full,"10,000","140,000","140,049","123,121",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+300199,ACCZ - Group M - Nestle Purina - Nov28 - Nov30,11/28/2025,11/30/2025,CPCV,,Delivered in Full,"170,000","320,000","349,832","321,589",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299988,ACCS - DIGILINE EMEA - Shell SK - Oct 01 - Nov 30 - Shell SK,45848,11/30/2025,CPCV,,Delivered in Full,"6,500","367,500","399,215","367,597",1,,299988,Sesil Kaprilyan,C-003186,Asli Ero,350000
+300020,ACRS - Vodafone MK - 16Oct - 30Nov,10/15/2025,11/30/2025,CPCV,,Delivered in Full,"7,000","300,000","358,203","300,027",1,,300020,Sesil Kaprilyan,C-003259,Asli Ero,296300
+300048,ACRO - Nestle Romania - Oct22 - Nov30,10/23/2025,11/30/2025,CPCV,,Not Delivered in Full,"3,500","673,444","741,369","669,237",0.99,,300048,Sesil Kaprilyan,C-003245,Asli Ero,663444
+300079,ACSK - GroupM - Plzensky Prazdroj - Nov3 - Nov30,45758,11/30/2025,CPCV,,Delivered in Full,"17,500","330,000","356,262","330,123",1,,300079,Sesil Kaprilyan,C-003415,Asli Ero,328572
+300082,ACSK - Slovnaft Winter Priming - Nov4 - Nov30,45758,11/30/2025,CPCV,,Not Delivered in Full,"13,000","183,750","199,689","180,568",0.98,,300082,Sesil Kaprilyan,C-003426,Asli Ero,175000
+300096,ACCZ - Group M - Loreal CZ - Nov1 - Nov30 - Czechia,45941,11/30/2025,CPCV,,Delivered in Full,"26,000","384,999","416,633","385,541",1,,300096,Sesil Kaprilyan,C-003439,Asli Ero,366666
+300097,ACCZ - Group M - Loreal CZ - Nov1 - Nov30 - Hungary,45941,11/30/2025,CPCV,,Delivered in Full,"16,000","287,826","311,554","288,020",1,,300097,Sesil Kaprilyan,C-003440,Asli Ero,274119
+300098,ACCZ - Group M - Loreal CZ - Nov1 - Nov30 - Slovakia,45941,11/30/2025,CPCV,,Not Delivered in Full,"12,000","176,470","188,826","173,932",0.99,,300098,Sesil Kaprilyan,C-003441,Asli Ero,168067
+300115,ACBE - SpaceFwd BE EMEA - EG Lunestil BE - Nov 11 - Nov 30 NEW,45972,11/30/2025,CPCV,,Delivered in Full,"15,000","168,758","180,840","168,804",1,,300115,Emirhan Ayan,C-003460,Mohamed Arsath,160722
+300118,ACCZ - Group M CZ - L’Oreal - 15Oct - 30Nov - Czechia,11/13/2025,11/30/2025,CPCV,,Delivered in Full,"45,000","676,667","721,642","677,063",1,,300118,Sesil Kaprilyan,C-003473,Asli Ero,666667
+300119,ACCZ - Group M CZ - L’Oreal - 15Oct - 30Nov - Hungary,11/13/2025,11/30/2025,CPCV,,Delivered in Full,"24,000","326,666","346,828","326,790",1,,300119,Sesil Kaprilyan,C-003474,Asli Ero,316666
+300121,ACCZ - Group M CZ - L’Oreal - 15Oct - 30Nov - Slovakia,11/13/2025,11/30/2025,CPCV,,Delivered in Full,"19,000","245,294","261,906","245,522",1,,300121,Sesil Kaprilyan,C-003475,Asli Ero,235294
+300125,ACRS - Supermart MK Black Friday - 13Nov - 30Nov - BF Klimi,11/14/2025,11/30/2025,CPCV,,Delivered in Full,"4,509","76,666","86,910","76,710",1,,300125,Sesil Kaprilyan,C-003468,Asli Ero,66666
+300126,ACRS - Supermart MK Black Friday - 13Nov - 30Nov - BF Opsta,11/14/2025,11/30/2025,CPCV,,Delivered in Full,"4,509","76,666","87,599","76,711",1,,300126,Sesil Kaprilyan,C-003469,Asli Ero,66666
+300170,ACRS - Vodafone MK - 16Oct - 30Nov (2),11/21/2025,11/30/2025,CPCV,,Delivered in Full,"26,000","54,915","63,850","55,121",1,,300170,Sesil Kaprilyan,,Asli Ero,54915
+300171,ACRS - Vodafone MK - 11Nov - 30Nov,11/21/2025,11/30/2025,CPCV,"681,818",Delivered in Full,"4,800","54,915","63,031","55,115",1,,300171,Sesil Kaprilyan,C-003566,Asli Ero,54915
+299847,ACCS - Group M CZ - Nestle CZ - Sep 1 - Nov 30,45666,11/30/2025,CPCV,4134521,Not Delivered in Full,"2,000","243,858","265,585","243,806",1,,299847,Sesil Kaprilyan,C-002990,Asli Ero,232246
+299977,ACCS - GroupM SK EMEA - IDC Holding SK - Oct1 - Nov30,45726,11/30/2025,CPCV,"788,078",Delivered in Full,"8,000","301,350","332,870","301,385",1,,299977,Sesil Kaprilyan,C-003162,Asli Ero,287000
+299996,ACSR - McCann - Intesa SanPaolo Bank - Oct9 - Nov30,45910,11/30/2025,CPCV,"1,384,416",Delivered in Full,"4,200","210,000","246,195","210,033",1,,299996,Sesil Kaprilyan,C-003228,Asli Ero,200000
+300061,ACEG - Spotify - 1Nov - 30Nov,10/31/2025,11/30/2025,CPCV,"526,316",Delivered in Full,"12,000","435,000","486,670","436,159",1,,300061,Gencay Evren,C-003406,Rajesh Kumar,430000
+300062,ACEG - Spotify - 1Nov - 30Nov - Added Value,10/31/2025,11/30/2025,CPCV,,Delivered in Full,"1,000","45,000","50,226","45,106",1,,,Gencay Evren,C-003407,Rajesh Kumar,43000
+300014,ACRO - McDonald's Romania - Oct16 - Nov30,10/16/2025,11/30/2025,CPCV,,Not Delivered in Full,"4,200","465,000","510,015","464,861",1,,,Sesil Kaprilyan,C-003243,Asli Ero,463375
+300015,ACRO - McDonald's Romania - Oct16 - Nov30 - AV,10/16/2025,11/30/2025,CPCV,,Delivered in Full,535,"51,000","54,495","51,002",1,,300015,Sesil Kaprilyan,C-003242,Asli Ero,46337
+300112,ACTR - EssenceMediacom TR EMEA - Audi TR - Nov1 - Nov30,46002,11/30/2025,CPCV,,Delivered in Full,"50,000","962,000","1,057,257","962,317",1,,300112,Gencay Evren,C-003458,Rajesh Kumar,961538
+300145,ACTR - Universal McCann TR EMEA - ING Bank TR - Nov19 - Nov30,11/19/2025,11/30/2025,CPCV,,Delivered in Full,"40,000","441,000","481,948","441,272",1,,300145,Gencay Evren,C-003540,Rajesh Kumar,440341
+300182,ACTR - Ingage TR - Arcelik TR - Nov24 - Nov30,11/25/2025,11/30/2025,CPCV,,Delivered in Full,"100,000","720,000","791,850","720,683",1,,300182,Gencay Evren,C-003588,Rajesh Kumar,714285
+300138,ACKZ - Publicis Lego - Nov17 - Nov30,11/18/2025,11/30/2025,CPCV,,Delivered in Full,"67,000","735,000","817,418","735,616",1,,300138,Sesil Kaprilyan,C-003496,Asli Ero,700000
+300193,ACTR - Native Media TR EMEA - Mavi Jeans TR - Nov28 - Nov30,11/28/2025,11/30/2025,CPCV,,Delivered in Full,"105,000","410,000","441,465","412,993",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+300099,ACTR - EssenceMediacom - Volkswagen TR - Nov7 - Nov28,45941,11/28/2025,CPCV,"1,407,476",Delivered in Full,"30,000","670,000","708,462","670,207",1,,300099,Gencay Evren,C-003455,Rajesh Kumar,666667
+300167,ACTR - Speed Medya TR - BiM TR - Nov21 - Nov28,11/21/2025,11/28/2025,CPCV,,Delivered in Full,"40,000","358,000","394,817","358,937",1,,300167,Yesim Utku,C-003582,Rajesh Kumar,357143
+300188,ACTR - Speed Medya TR - BiM TR - Nov26 - Nov28,11/26/2025,11/28/2025,CPCV,,Delivered in Full,"150,000","540,000","588,520","540,990",1,,300188,Gencay Evren,C-003603,Rajesh Kumar,535714
+299982,ACSR - Media Pool - PERUTNINA PTUJ - Oct6 - Nov28,45818,11/27/2025,CPCV,,Delivered in Full,"3,888","210,000","226,476","210,014",1,,299982,Sesil Kaprilyan,C-003187,Asli Ero,200000
+300181,ACTR - Speed Medya TR - BiM TR - Nov25 - Nov27,11/25/2025,11/27/2025,CPCV,,Delivered in Full,"100,000","360,000","393,251","362,576",1.01,,300181,Gencay Evren,C-003595,Rajesh Kumar,357143
+300088,ACTR - Universal McCann TR - Sahibinden TR - Nov6 - Nov25,45819,11/25/2025,CPCV,,Delivered in Full,"70,000","1,380,000","1,724,039","1,380,433",1,,300088,Gencay Evren,C-003443,Rajesh Kumar,1379310
+300031,ACRO - HTTPOOL - NetBet - Oct22 - Nov22,10/22/2025,11/24/2025,CPCV,,Not Delivered in Full,"21,000","786,470","891,656","779,738",0.99,,300031,Sesil Kaprilyan,C-003284,Asli Ero,470588
+300032,ACRO - HTTPOOL - NetBet - Oct22 - Nov22 (Added Value),10/22/2025,11/24/2025,CPCV,,Not Delivered in Full,"3,000","78,647","84,875","75,696",0.96,,300032,Sesil Kaprilyan,C-003283,Asli Ero,47058
+300068,ACUSH - McD McCrispy - Nov3 - Nov23,45727,11/24/2025,CPM,,Delivered in Full,"120,000","3,562,000","3,562,747","3,463,421",1,,300068,Idil Yurtan,C-003415,Mohamed Arsath,3529159
+300051,ACDK - Norlys - 1Nov - 23Nov,10/31/2025,11/23/2025,CPCV,"536,461",Delivered in Full,"30,000","505,000","546,155","505,155",1,,300051,Sesil Kaprilyan,C-003361,Asli Ero,500000
+300087,ACBE - SpaceFwd BE EMEA - KeyTrade Bank BE - Nov06 - Nov30,45819,11/23/2025,CPCV,,Delivered in Full,"77,000","707,000","777,286","707,504",1,,300087,Idil Yurtan,C-003424,Mohamed Arsath,696429
+300035,ACRS - WPP SRB - Vichy SRB - 23Oct - 23Nov,10/22/2025,11/23/2025,CPCV,,Not Delivered in Full,"6,100","192,000","204,214","191,743",1,,300035,Sesil Kaprilyan,C-003288,Asli Ero,190000
+300037,ACRS - WPP SRB - Vichy HR - 23Oct - 23Nov,10/22/2025,11/23/2025,CPCV,,Not Delivered in Full,"6,100","192,000","209,023","191,967",1,,300037,Sesil Kaprilyan,C-003287,Asli Ero,190000
+300038,ACRS - WPP SRB - Vichy BUG - 23Oct - 23Nov,10/22/2025,11/23/2025,CPCV,,Not Delivered in Full,"6,050","192,000","203,599","191,986",1,,300038,Sesil Kaprilyan,C-003286,Asli Ero,190000
+300174,ACTR - Speed Medya TR - BiM TR - Nov22 - Nov23,11/22/2025,11/23/2025,CPCV,,Delivered in Full,"260,000","375,000","417,258","376,210",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+300056,Test5 - ACKZ - P&G Kazakhstan - 24Oct - 25Dec,11/17/2025,11/23/2025,CPCV,,Delivered in Full,"2,000","10,000","11,358","10,208",1.02,,#N/A,Not Found,Not Found,Not Found,Not Found
+300130,ACTR - Speed Medya TR - BiM TR - Nov14 - Nov21,11/14/2025,11/21/2025,CPCV,,Delivered in Full,"45,000","357,500","391,968","360,271",1.01,,300130,Gencay Evren,C-003478,Rajesh Kumar,357143
+300144,ACTR - Speed Medya TR - BiM TR - Nov19 - Nov21,11/19/2025,11/21/2025,CPCV,,Delivered in Full,"230,000","536,000","593,829","537,540",1,,300144,Gencay Evren,C-003531,Rajesh Kumar,535714
+300054,ACRS - Neptun MK - 27Oct - 17Nov,10/26/2025,11/17/2025,CPCV,,Delivered in Full,"8,000","207,017","231,564","207,112",1,,300054,Sesil Kaprilyan,C-003362,Asli Ero,200000
+300066,ACDK - Nordisk Film DK - Nov3 - Nov16,45699,11/16/2025,CPCV,,Not Delivered in Full,"7,800","123,529","130,153","121,826",0.99,,300066,Sesil Kaprilyan,C-003366,Asli Ero,117647
+299867,ACCS - Zenith Media Slovakia EMEA - TatraBank Slovakia - Sep 8 - Nov 16,45727,11/16/2025,CPCV,,Not Delivered in Full,"19,000","400,882","415,950","386,425",0.96,,299867,Sesil Kaprilyan,C-003200,Asli Ero,381793
+300131,ACTR - Speed Medya TR - BiM TR - Nov15 - Nov16,11/15/2025,11/16/2025,CPCV,,Delivered in Full,"100,000","358,000","392,446","361,682",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299922,ACBE - Understood.org - Learning Disabilities - Sep19 - Nov15,09/18/2025,11/15/2025,CPM,,Delivered in Full,"100,000","2,010,000","2,010,436",0,1,,299922,Idil Yurtan,C-003106,Rajesh Kumar,2010000
+300028,ACTR - And Partnership TR - Garanti Bankasi - 20Oct - 15Nov,10/19/2025,11/15/2025,CPCV,,Delivered in Full,"16,722","430,000","458,979","430,943",1,,300028,Gencay Evren,C-003308,Rajesh Kumar,430000
+300064,ACTR - Vivident TR - EMEA - Nov1 - Nov15,45668,11/15/2025,CPCV,,Delivered in Full,"9,200","138,000","149,354","138,786",1.01,,300064,Gencay Evren,C-003413,Rajesh Kumar,137931
+300117,ACTR - Speed Medya TR - BiM TR - Nov13 - Nov14,11/13/2025,11/14/2025,CPCV,,Delivered in Full,"215,000","536,000","593,388","540,380",1.01,,300117,Gencay Evren,C-003472,Rajesh Kumar,535714
+300086,ACTR - Adinteraction TR - Kral Sakir TR - Nov5 - Nov14,45941,11/14/2025,CPCV,,Delivered in Full,"60,000","390,000","424,353","392,082",1.01,,300086,Gencay Evren,C-003438,Rajesh Kumar,386364
+300100,ACTR - Speed Medya TR EMEA - BiM TR - Nov11 - Nov13,45972,11/13/2025,CPCV,,Delivered in Full,"160,000","360,000","401,892","366,248",1.02,,300100,Gencay Evren,C-003447,Rajesh Kumar,357143
+300063,ACKZ - TDS Media - Kaspi - Oct31 - Nov9,10/30/2025,45941,CPCV,,Delivered in Full,"35,000","2,210,000","2,443,298","2,210,365",1,,300063,Sesil Kaprilyan,C-003390,Mohamed Arsath,2200000
+300052,ACSK - Modivo - 27Oct - 9Nov,10/26/2025,45941,CPCV,,Delivered in Full,"2,000","268,500","289,891","268,585",1,,300052,Sesil Kaprilyan,C-003363,Rajesh Kumar,260000
+300092,ACTR - Speed Medya TR - BiM TR - Nov8 - Nov9,45880,45911,CPCV,,Delivered in Full,"250,000","358,000","388,928","359,356",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299954,ACBE - SpaceFwd - Dr.Oetker_BE - Oct05 - Nov09,45787,45880,CPCV,,Not Delivered in Full,"4,684","896,000","990,777","892,939",1,,299954,Idil Yurtan,C-002991,Mohamed Arsath,892857
+299642,ACRO - Carat - Heineken Romania - Jun27 - Nov7,45937,45849,CPCV,,Not Delivered in Full,"2,000","272,000","290,879","271,999",1,,299642,Sesil Kaprilyan,C-002634,Mohamed Arsath,265000
+300065,ACTR - SpeedMedya TR - BIM - Nov1 - Nov7,45668,45849,CPCV,,Delivered in Full,"55,000","360,000","442,469","361,491",1,,300065,Gencay Evren,C-003409,Rajesh Kumar,357143
+300081,ACTR - SpeedMedya - BIM - Nov5 - Nov7,45758,45849,CPCV,,Delivered in Full,"110,233","540,000","591,377","542,890",1.01,,300081,Gencay Evren,C-003429,Rajesh Kumar,535714
+299902,ACCS - Group M - L’Oreal - Sep10 - Oct10 - HU,09/17/2025,45758,CPCV,,Not Delivered in Full,"21,000","361,000","370,433","345,994",0.96,,299902,Sesil Kaprilyan,C-003067,Rajesh Kumar,341000
+299849,ACRO - Carrefour Minecraft  - Sep4 - Nov11,45756,45758,CPCV,,Delivered in Full,"3,500","184,000","200,077","184,013",1,,299849,Sesil Kaprilyan,C-002992,Mohamed Arsath,176471
+299993,ACUK - UK GOV - NAVY - Officers - Oct8-Nov2,45848,45699,CPCV,,Not Delivered in Full,"28,000","598,000","578,290","549,271",0.92,,299993,NA,C-003291,DT,598000
+299900,ACCS - Group M - L’Oreal - Sep16 - Oct10 - CZ,09/19/2025,45699,CPCV,,Not Delivered in Full,"15,000","699,000","719,692","670,001",0.96,,299900,Sesil Kaprilyan,C-003066,Rajesh Kumar,547618
+300067,ACTR - Speed Medya TR - BIM - Nov1 - Nov2,10/31/2025,45699,CPCV,,Delivered in Full,"187,500","375,000","413,074","376,985",1.01,,300067,Gencay Evren,C-003410,Rajesh Kumar,357142
+299980,ACLAUS - Starcom - Mcdonalds - Oct6 - Nov2,45818,45699,CPM,,Not Delivered in Full,"1,000","2,012,435","2,010,275","1,908,557",1,,299980,Idil Yurtan,C-003199,Mohamed Arsath,1962481
+299855,ACSR - Halkbank MK - Sep4 - Oct31,45786,10/31/2025,CPCV,,Delivered in Full,"8,500","197,400","227,236","197,420",1,,299855,Sesil Kaprilyan,C-002994,Mohamed Arsath,188000
+299935,ACCS - Publicis CZ - mBank CZ - Oct 1 - Oct 31,45667,10/31/2025,CPCV,,Delivered in Full,"12,500","350,001","382,452","350,289",1,,299935,Sesil Kaprilyan,C-003270,Rajesh Kumar,333333
+299951,ACCS - Group M - HTTPOOL - L’Oreal CZ - Sep9 - Oct31 - CZ,09/28/2025,10/31/2025,CPCV,,Delivered in Full,"17,000","700,000","765,423","700,136",1,,299951,Sesil Kaprilyan,C-003203,Rajesh Kumar,666666
+299952,ACCS - Group M - HTTPOOL - L’Oreal CZ - Sep1 - Oct31 - HU,09/28/2025,10/31/2025,CPCV,,Delivered in Full,"10,000","319,630","344,104","319,857",1,,299952,Sesil Kaprilyan,C-003204,Rajesh Kumar,304409
+299953,ACCS - Group M - HTTPOOL - L’Oreal CZ - Sep1 - Oct31 - SK,09/28/2025,10/31/2025,CPCV,,Delivered in Full,"6,500","264,706","287,248","264,920",1,,299953,Sesil Kaprilyan,C-003205,Rajesh Kumar,252101
+299968,ACTR - Speed Medya - BiM - Oct2 - Oct31,45698,10/31/2025,CPCV,,Not Delivered in Full,"58,000","1,687,500","1,782,105","1,593,466",0.94,,299968,Gencay Evren,C-003176,Rajesh Kumar,1607143
+299973,ACCS - Group M - Mentos - Oct 1 - Oct31,45726,10/31/2025,CPCV,,Delivered in Full,"12,500","349,999","369,974","350,263",1,,299973,Sesil Kaprilyan,C-003184,Rajesh Kumar,333333
+299974,ACCS - Group M - Mentos - Oct 1 - Oct31 BLS,45726,10/31/2025,CPM,,Delivered in Full,"3,300","50,000","50,016","41,964",1,,299974,Sesil Kaprilyan,NA,Rajesh Kumar,47619
+299978,ACHU - Disney - Publicis - Oct3 - Oct31,45726,10/31/2025,CPCV,,Delivered in Full,"7,000","204,750","216,150","205,027",1,,299978,Gencay Evren,C-003188,Rajesh Kumar,195000
+299883,ACSR - GroupM - Dove Men - Sep10 - Oct31,46000,10/31/2025,CPCV,,Delivered in Full,"4,200","210,000","221,142","210,008",1,,299883,Sesil Kaprilyan,C-003033,Mohamed Arsath,200000
+299888,ACRO - McDonald's Employer - Sep09 - Oct31,45970,10/31/2025,CPCV,,Delivered in Full,"18,400","787,500","921,332","787,867",1,,299888,Sesil Kaprilyan,C-003050,Rajesh Kumar,750000
+299891,ACRO - McDonald's Employer - Sep09 - Oct31 AV,45970,10/31/2025,CPCV,,Delivered in Full,"1,400","75,050","79,151","75,086",1,,299891,Sesil Kaprilyan,C-003049,Rajesh Kumar,71476
+299967,ACCS - Publicis - mBank - Oct2 - Oct31,45698,10/31/2025,CPCV,,Not Delivered in Full,"24,000","331,154","363,366","331,151",1,,299967,Sesil Kaprilyan,C-003231,Mohamed Arsath,315384
+299878,ACTR - Vivident TR - EMEA - Sep 11 - Oct 31,45848,10/31/2025,CPCV,,Not Delivered in Full,"35,255","1,333,645","1,315,089","1,209,408",0.91,,299878,Gencay Evren,"C-003039, C-003214",Rajesh Kumar,551724
+299983,ACRO - GroupM - Unilever RO - Oct1 - Oct31,45818,10/31/2025,CPCV,,Delivered in Full,"9,200","308,231","332,458","308,484",1,,299983,Sesil Kaprilyan,C-003234,Rajesh Kumar,293554
+300029,ACRO - Omniperform Romania - Lego TR - Oct7 - Oct31,45818,10/31/2025,CPCV,,Delivered in Full,"21,000","315,000","340,457","316,433",1,,300029,Sesil Kaprilyan,C-003244,Rajesh Kumar,300000
+300030,ACRO - Zenith RO EMEA - Loreal - 16Oct - 31Oct,10/20/2025,10/31/2025,CPCV,,Delivered in Full,"26,000","277,941","304,243","278,526",1,,300030,Sesil Kaprilyan,C-003269,Rajesh Kumar,264706
+300033,ACRO - Zenith RO EMEA - Loreal - 16Oct - 31Oct AV,10/21/2025,10/31/2025,CPCV,,Delivered in Full,"2,800","27,793","30,175","28,219",1.02,,300033,Sesil Kaprilyan,C-003268,Rajesh Kumar,26469
+300053,ACTR - Vivident TR - EMEA - Sep 11 - Oct 31 - V2,10/27/2025,10/31/2025,CPCV,,Not Delivered in Full,"2,000","125,000","113,490","104,694",0.84,,300053,Gencay Evren,"C-003039, C-003214",Rajesh Kumar,689655
+300057,ACTR - SpeedMedya TR - BIM - 28Oct - 30Oct,10/28/2025,10/30/2025,CPCV,,Not Delivered in Full,"100,000","580,000","617,250","570,874",0.98,,300057,Gencay Evren,C-003374,Rajesh Kumar,552380
+300027,ACTR - Volkswagen TR - 20Oct - 29Oct,10/19/2025,10/29/2025,CPCV,,Delivered in Full,0,"705,000","763,248","710,827",1.01,,300027,Gencay Evren,C-003275,Mohamed Arsath,666667
+299984,ACTR - Essence Mediacom - Volkswagen TR - Oct6 - Oct29,45818,10/28/2025,CPCV,,Not Delivered in Full,"47,000","700,000","353,125","331,248",0.47,,299984,Gencay Evren,C-003230,Rajesh Kumar,666667
+299985,ACTR - EssenceMediacom TR EMEA - Volkswagen TR - Oct 6 - Oct 29,45818,10/28/2025,CPCV,,Not Delivered in Full,"30,018","700,000","698,531","661,279",0.94,,299985,Gencay Evren,C-003201,Mohamed Arsath,666667
+300047,Do not use - Test,10/27/2025,10/28/2025,CPCV,,Delivered in Full,0,"1,000","3,276","2,833",2.83,,#N/A,Not Found,Not Found,Not Found,Not Found
+299857,ACCH - Blutspende - Sep8 - Oct26,45847,10/26/2025,CPM,,Delivered in Full,"43,000","1,083,600","1,084,241","975,519",1,,299857,Idil Yurtan,C-002952,Mohamed Arsath,1032000
+299858,ACCH - Blutspende - Sep8 - Oct26 - Added Value,45847,10/26/2025,CPM,,Delivered in Full,437,"20,846","20,846","19,186",1,,299858,Idil Yurtan,C-002953,DT,20640
+300049,ACTR - SpeedMedya TR - BIM TR - 25Oct - 26Oct,10/24/2025,10/26/2025,CPCV,,Delivered in Full,"262,500","375,000","416,832","376,260",1,,300049,Gencay Evren,C-003307,Asli Ero,357143
+299932,ACUK - Clarins - Sep25 - Oct25,09/24/2025,10/25/2025,CPCV,,Delivered in Full,0,"1,990,833","2,165,552","1,991,325",1,,299932,NA,C-003147,DT,1990833
+299933,ACUK - Clarins - Sep25 - Oct25 - AV,09/24/2025,10/25/2025,CPCV,,Delivered in Full,0,"497,708","530,396","497,870",1,,299933,NA,C-003148,DT,497708
+299893,ACSR - Universal Media Skopje - Bitolska Mlekara MK - Sep16 - Oct24,09/16/2025,10/24/2025,CPCV,"279,061",Delivered in Full,"9,700","296,000","377,432","296,127",1,,299893,Sesil Kaprilyan,C-003058,Mohamed Arsath,280000
+300039,ACTR - Speed Medya TR - BIM TR - 22Oct - 24Oct,10/21/2025,10/24/2025,CPCV,"45,000",Delivered in Full,0,"562,499","649,140","570,241",1.01,,300039,Gencay Evren,C-003296,Asli Ero,535714
+299815,ACSR - Telekom eSport - Aug25 - Oct23,08/24/2025,10/23/2025,CPCV,,Delivered in Full,"17,284","233,333","257,373","233,351",1,,299815,Sesil Kaprilyan,C-002934,DT,222222
+299995,ACKR - Dentsu Kazakhstan - Ferrero TR - Oct9 - Oct23,45910,10/23/2025,CPCV,"583,333",Not Delivered in Full,"50,000","50,000","22,285","20,352",0.41,,299995,Gencay Evren,C-003227,Rajesh Kumar,20000
+300024,ACKR - Dentsu Kazakhstan - Ferrero TR - Oct18 - Oct23,45910,10/23/2025,CPCV,"281,250",Delivered in Full,"2,565","31,130","33,698","31,136",1,,300024,Gencay Evren,C-003227,Rajesh Kumar,31130
+299962,ACRO - OMD - Tchibo - Sep30 - Oct22,09/30/2025,10/22/2025,CPCV,"666,667",Delivered in Full,"13,545","277,941","295,653","278,058",1,,299962,Sesil Kaprilyan,C-003115,Peddakotla Raviteja,264705.71
+299964,ACTR - Universal McCann - H&M - Oct01 - Oct22,45667,10/22/2025,CPCV,"1,136,364",Delivered in Full,"52,000","1,095,651","1,220,543","1,099,532",1,,299964,Gencay Evren,C-003173,Peddakotla Raviteja,1043477.14
+299826,ACUK - Boots UK Ltd - No. 7 - Sep3 - Oct21 - BLS,08/27/2025,10/21/2025,CPM,"696,429",Not Delivered in Full,"10,000","80,000","55,925","54,577",0.7,,299826,NA,-,DT,80000
+299960,ACUK - Disney Chad Powers - Sep30 - Oct21,9/29/2025,10/21/2025,CPM,"583,333",Not Delivered in Full,0,"3,921,813","1,781,790","1,645,550",0.45,,299960,NA,C-003408,DT,3735060
+299961,ACUK - Disney Chad Powers - Sep30 - Oct21 - BLS,09/29/2025,10/21/2025,CPM,"1,100,746",Delivered in Full,"10,000","50,000","50,110","48,499",1,,,NA,C-003168,DT,47619.05
+299946,ACCS - Group M - L’Oreal CZ - Sep22 - Oct19 - HU,09/26/2025,10/19/2025,CPCV,,Delivered in Full,0,"393,000","454,749","393,011",1,,,Sesil Kaprilyan,C-003144,Rajesh Kumar,374285.71
+299955,ACSR - Wavemaker RS - L'Oreal SRB - Sep29 - Oct19,09/29/2025,10/19/2025,CPCV,,Delivered in Full,"11,000","231,000","246,443","231,059",1,,,Sesil Kaprilyan,C-003140,Peddakotla Raviteja,220000
+299963,ACDK - S360 - Nordisk Film Distribution - Oct01 - Oct19,45667,10/19/2025,CPCV,,Not Delivered in Full,0,"308,822","304,434","281,371",0.91,,,Sesil Kaprilyan,C-003161,Peddakotla Raviteja,294116.19
+300023,ACTR - Speed Medya - BiM - Oct18 - Oct19,10/17/2025,10/19/2025,CPCV,,Delivered in Full,"250,000","375,000","422,756","377,325",1.01,,300023,Gencay Evren,C-003276,Mohamed Arsath,357142.86
+299944,ACCS - Group M - L’Oreal CZ - Sep22 - Oct19 - SK,09/26/2025,10/19/2025,CPCV,,Delivered in Full,"27,500","252,940","364,251","253,345",1,,299944,Sesil Kaprilyan,C-003146,Rajesh Kumar,240895.24
+299945,ACCS - Group M - L’Oreal CZ - Sep22 - Oct19 - CZ,09/26/2025,10/19/2025,CPCV,,Delivered in Full,"76,778","700,000","964,217","701,256",1,,299945,Sesil Kaprilyan,C-003145,Rajesh Kumar,666666.67
+300006,ACTR - Speed Medya - BiM - Oct15 - Oct16,10/14/2025,10/16/2025,CPCV,,Not Delivered in Full,"281,249","562,499","617,212","558,060",0.99,,300006,Gencay Evren,C-003256,Peddakotla Raviteja,535713.33
+299831,ACME - Paramount DE - Heinz - Sep1 - Oct15,45666,10/15/2025,CPCV,,Delivered in Full,"4,500","528,042","610,254","528,058",1,,299831,Sesil Kaprilyan,C-002967,Rajesh Kumar,502897.14
+299929,ACDK - Nordisk Film Distribution DK - Sep26 - Oct15,09/25/2025,10/15/2025,CPCV,,Not Delivered in Full,"30,006","306,665","298,287","271,070",0.88,,299929,Sesil Kaprilyan,C-002922,Rajesh Kumar,266666
+300004,ACDK - Nordisk Film Distribution DK - Oct 15 - Oct15,10/15/2025,10/15/2025,CPCV,,Not Delivered in Full,"41,908","41,908","28,259","26,476",0.63,,300004,Sesil Kaprilyan,C-002922,Rajesh Kumar,26000
+300010,ACDK - Nordisk Film Distribution DK - Oct 15 - Oct15,10/15/2025,10/15/2025,CPCV,,Not Delivered in Full,"11,760","11,760","8,279","7,793",0.66,,300010,Sesil Kaprilyan,C-002922,Rajesh Kumar,7500
+299834,ACTR - Vivaki TR - Lego - Sep1 - Oct15,08/31/2025,10/15/2025,CPCV,,Delivered in Full,"32,500","1,431,818","1,569,804","1,431,985",1,,299834,Gencay Evren,C-002965,DT,1363636.19
+299899,ACTR - Vivaki TR - Lego - Duplo - Sep17 - Oct15,09/16/2025,10/15/2025,CPCV,,Delivered in Full,"38,113","1,105,264","1,183,929","1,105,455",1,,299899,Gencay Evren,C-003065,DT,1052632.38
+299905,ACBG - Storck - Universal Media - Sep16 - Oct15,09/18/2025,10/15/2025,CPCV,,Not Delivered in Full,"7,777","210,000","230,244","206,286",0.98,,299905,Sesil Kaprilyan,C-003070,Mohamed Arsath,200000
+299947,ACTR - Partnership - Garanti Bankasi - Sep26 - Oct15,09/26/2025,10/15/2025,CPCV,,Delivered in Full,"32,812","656,250","716,635","656,727",1,,299947,Gencay Evren,C-003163,Peddakotla Raviteja,625000
+299970,ACME - Mediacom UA EMEA - Sony PlayStation PT - Oct1 - Oct15,45726,10/15/2025,CPCV,,Delivered in Full,"150,000","1,100,000","1,350,001","1,101,185",1,,299970,Sesil Kaprilyan,C-003112,Mohamed Arsath,1047619.05
+299972,ACME - Mediacom UA EMEA - Sony PlayStation PT - Oct1 - Oct15,45726,10/15/2025,CPCV,,Not Delivered in Full,"30,000","328,800","384,249","312,791",0.95,,299972,Sesil Kaprilyan,C-003111,Mohamed Arsath,313142.86
+299943,ACSR - Publicis - Lidl SRB - Sep26 - Oct14,09/26/2025,10/14/2025,CPCV,,Delivered in Full,"19,000","277,632","301,116","278,459",1,,299943,Sesil Kaprilyan,C-003213,Peddakotla Raviteja,264412
+299956,ACCS - DIGILINE - Kaufland - Sep29 - Oct13,09/29/2025,10/14/2025,CPCV,,Delivered in Full,0,"336,000","370,482","336,014",1,,299956,Sesil Kaprilyan,C-003151,Peddakotla Raviteja,320000
+299927,ACRO - McCann - Kaufland - Sep 22nd - Oct 14th,09/22/2025,10/14/2025,CPM,,Delivered in Full,"31,956","735,000","735,546",0,1,,299927,Sesil Kaprilyan,C-003130,Peddakotla Raviteja,700000
+299866,ACUK - Disney Fantastic Four - Sep29 - Oct12 - Burst 2,09/28/2025,46001,CPM,,Delivered in Full,"102,750","1,451,789","1,454,186","1,315,284",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299809,ACRO - Intersnack Pombar - Aug21 - Oct12,08/21/2025,46001,CPCV,,Delivered in Full,"4,000","216,000","232,753","216,024",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299876,ACRO - Cum Comunicam- APAPR PensiePriv - Sep1 - Oct12,45970,46001,CPCV,,Delivered in Full,"29,253","367,000","409,984","367,154",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299998,ACTR - Speed Medya - BiM - Oct11 - Oct12,45940,46001,CPCV,,Delivered in Full,"187,500","375,000","412,069","376,495",1,,299998,Gencay Evren,C-003238,Peddakotla Raviteja,357143
+299828,ACCS - GroupM CZ - Mazda - Aug25 - Oct12,08/28/2025,46001,CPCV,,Not Delivered in Full,"7,377","331,950","348,409","320,023",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299877,ACSR - Neptun - Happy Week - Sep11 - Oct7,45910,45971,CPCV,,Not Delivered in Full,"24,500","283,500","265,959","243,281",0.86,,#N/A,Not Found,Not Found,Not Found,Not Found
+299824,ACUK - Boots UK Ltd - No. 7 - Sep3 - Oct21,45697,45940,CPCV,,Delivered in Full,"66,896","1,521,450","1,640,396","1,521,988",1,,299824,NA,C-002980,DT,1521450
+299825,ACUK - Boots UK Ltd - No. 7 - Sep3 - Oct21 - AV,45697,45940,CPCV,,Not Delivered in Full,"6,521","162,133","168,855","160,410",0.99,,299825,NA,C-002981,DT,162133
+299901,ACCS - Group M - L’Oreal - Sep16 - Oct10 - SK,09/17/2025,45940,CPCV,,Not Delivered in Full,"56,873","247,000","261,241","242,367",0.98,,299901,Sesil Kaprilyan,C-003068,Rajesh Kumar,193276
+299975,ACTR - Speed Medya - BiM - Oct3 - Oct10,45726,45940,CPCV,,Delivered in Full,"55,200","375,000","406,502","375,176",1,,299975,Gencay Evren,C-003185,Rajesh Kumar,357143
+299931,ACME - Tarek Nour - MG Oto TR - Sep01 - Oct09,09/23/2025,45910,CPCV,,Delivered in Full,"9,286","148,584","172,210","149,828",1.01,,299931,Sesil Kaprilyan,C-003116,Rajesh Kumar,141509
+299992,ACTR - Speed Medya - BİM - Oct8 - Oct9,45879,45910,CPCV,,Not Delivered in Full,"281,249","562,499","467,382","420,210",0.75,,299992,Gencay Evren,C-003221,Peddakotla Raviteja,535714
+299895,ACTR - IngageTR - Opet - Fasty - Sep15 - Oct8,09/16/2025,45879,CPCV,,Delivered in Full,"80,000","1,750,002","1,937,705","1,750,713",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299948,ACME - WB MEDIA - Samsung - Sep08 - Oct06,09/25/2025,45818,CPCV,,Delivered in Full,"35,686","356,860","429,675","357,036",1,,299948,Sesil Kaprilyan,C-003152,Rajesh Kumar,339867
+299860,ACUK - GOV - Navy - Reserves - Sep8Oct5,45847,45787,CPCV,,Not Delivered in Full,"24,000","597,000","592,123","560,047",0.94,,#N/A,Not Found,Not Found,Not Found,Not Found
+299861,ACUK - GOV - Navy - Engineers - Sep8Oct5,45847,45787,CPCV,,Not Delivered in Full,"27,000","597,000","589,003","567,669",0.95,,#N/A,Not Found,Not Found,Not Found,Not Found
+299979,ACTR - Speed Medya - BiM - Oct4 - Oct5,45726,45787,CPCV,,Delivered in Full,"357,143","375,000","407,212","376,074",1,,299979,Gencay Evren,C-003189,Rajesh Kumar,357142
+299871,ACLAUS - Starcom USH - Mcdonalds (USH) - Sep 8 - Oct 5,45909,45787,CPM,,Delivered in Full,"97,222","2,625,000","2,625,297","2,434,930",1,,299871,Idil Yurtan,C-003035,Mohamed Arsath,2500000
+299873,ACLAUS - Starcom USH - Mcdonalds - McCrispyQ3 - Sep 8 - Oct 5,45909,45787,CPM,,Delivered in Full,"194,444","5,250,000","5,250,436","4,723,955",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299823,ACBE - SpaceFwd - Aldi BE - Emoji 2025 - Aug27 - Oct4,08/26/2025,45757,CPCV,,Delivered in Full,"60,000","1,436,523","1,564,898","1,436,666",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299966,ACTR - Speed Medya - BiM - Oct2 - Oct3,45698,45726,CPCV,,Delivered in Full,"281,249","562,499","625,468","568,830",1.01,,299966,Gencay Evren,C-003170,Peddakotla Raviteja,535714
+299869,ACUK - Three Mobile - CSIM Q325 - Sep12Oct01,45970,45667,CPCV,"398,765",Not Delivered in Full,"75,000","1,563,870","1,529,963","1,435,139",0.92,,#N/A,Not Found,Not Found,Not Found,Not Found
+299928,ACKR - Netpeak Kazakhstan EMEA - Asbis Kazakhstan - Sep20 - Sep30,09/23/2025,45667,CPCV,,Delivered in Full,"98,329","525,000","604,808","534,476",1.02,,,Gencay Evren,C-003099,Mohamed Arsath,500000
+299728,ACUK - Royal Mail - Consumer Parcels - Sept 01 - Sept 30 - Burst 1,08/31/2025,09/30/2025,CPM,,Delivered in Full,"100,000","1,700,000","1,701,438","1,643,642",1,,,Not Found,Not Found,Not Found,Not Found
+299753,ACUK - Starcom UK EMEA - Stellantis Peugeot SUV Lions Emotion - Aug04 - Sep09,45724,09/30/2025,CPM,,Delivered in Full,0,"2,532,797","2,533,901","2,225,857",1,,,Not Found,Not Found,Not Found,Not Found
+299754,ACUK - Starcom UK EMEA - Stellantis Peugeot SUV Lions Information - Aug04 - Sep09,45724,09/30/2025,CPM,,Delivered in Full,0,"2,532,797","2,533,994","2,223,338",1,,,Not Found,Not Found,Not Found,Not Found
+299755,ACUK - Starcom UK EMEA - Stellantis Peugeot SUV Lions AV - Aug04 - Sep09,45724,09/30/2025,CPM,,Not Delivered in Full,"27,047","1,568,725","1,920","1,678",0,,#N/A,Not Found,Not Found,Not Found,Not Found
+299921,ACCS - Group M - L’Oreal CZ - Sep17 - Sep30 - CZ,09/19/2025,09/30/2025,CPM,,Delivered in Full,"140,000","1,680,000","1,680,104",0,1,,299921,Sesil Kaprilyan,C-003107,Rajesh Kumar,1600000
+299923,ACCS - Group M - L’Oreal CZ - Sep17 - Sep30 - SK,09/19/2025,09/30/2025,CPM,,Not Delivered in Full,"95,703","1,148,437","1,111,161",0,0.97,,299923,Sesil Kaprilyan,C-003108,Rajesh Kumar,1093749
+299924,ACCS - Group M - L’Oreal CZ - Sep17 - Sep30 - HU,09/19/2025,09/30/2025,CPM,,Not Delivered in Full,"113,049","1,356,588","1,327,481",0,0.98,,299924,Sesil Kaprilyan,C-003109,Rajesh Kumar,1292941
+299653,ACCS - GroupM CZ - Nestle CZ - Purina - Jul11 - Sep30,45968,09/30/2025,CPCV,,Not Delivered in Full,"7,246","400,000","423,378","399,442",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299836,ACCS - Digiline Tipos - Sep1 - Sept28,45725,09/30/2025,CPCV,,Not Delivered in Full,"15,000","210,881","232,778","210,095",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299879,ACSR - Publicis Media SRB EMEA_Samsung Serbia - Sep9 - Sep30,45970,09/30/2025,CPCV,,Delivered in Full,"11,052","210,000","228,445","210,048",1,,299879,Sesil Kaprilyan,C-003029,Mohamed Arsath,200000
+299351,ACLAUS - Shell - May1 - Sep30,45874,09/30/2025,CPM,,Not Delivered in Full,"100,000","3,860,000","3,784,478","3,487,311",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299832,ACTR - Big Babol - Mediacom - Sep1 - Sep30,08/31/2025,09/30/2025,CPCV,,Delivered in Full,"20,000","582,272","622,171","582,606",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299837,ACTR - Speed Medya TR - Bim TR - Sep3 - Sep30,45697,09/30/2025,CPCV,,Delivered in Full,"48,000","1,312,500","1,457,908","1,312,773",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299848,ACTR - Vivaki TR - CarrefourSA - Sep4 - Sep30,45756,09/30/2025,CPCV,,Delivered in Full,"10,000","252,000","268,740","252,042",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299875,ACTR - Speed Medya TR - Bim TR - Sep11 - Sep30,45939,09/30/2025,CPCV,,Delivered in Full,"108,553","2,062,500","2,244,159","2,065,010",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299881,ACTR - Fibabanka TR - Adxclusive - Sep11 - Sep30,45970,09/30/2025,CPCV,,Not Delivered in Full,"46,000","828,948","299,311","268,584",0.32,,#N/A,Not Found,Not Found,Not Found,Not Found
+299882,ACTR - HM TR - Fall - Sep12 - Sep30,45970,09/30/2025,CPCV,,Delivered in Full,"80,000","1,095,652","1,170,034","1,095,989",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299890,ACTR - Speed Medya TR EMEA - BİM TR - Sep15 - Sep30,09/16/2025,09/30/2025,CPCV,,Delivered in Full,"190,755","1,687,500","1,904,892","1,690,137",1,,299890,Gencay Evren,C-003052,Peddakotla Raviteja,1607143
+299920,ACTR - Jacobs TR - Sum25 - Sep19 - Sep30,09/18/2025,09/30/2025,CPCV,,Delivered in Full,"30,172","362,069","388,609","362,248",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299865,ACUK - Disney Fantastic Four - Sep23 - Sep28 - Burst 1,09/22/2025,09/28/2025,CPM,,Not Delivered in Full,"112,592","605,002","544,671","491,349",0.9,,#N/A,Not Found,Not Found,Not Found,Not Found
+299892,ACCS - GroupM CZ - Media Age Brno Gamenow - Sep4 - Sep28,09/16/2025,09/28/2025,CPCV,,Delivered in Full,"20,000","270,375","296,029","270,585",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299790,ACBE - SpaceFwd - Good Snack - Good Pasta - Aug15 - Sep28,08/14/2025,09/28/2025,CPCV,,Delivered in Full,"80,000","1,170,508","1,217,055","1,170,957",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299906,ACBG - One Battle After Another  - Alexandra Films - Sep17 - Sep28,09/18/2025,09/28/2025,CPCV,,Not Delivered in Full,"9,000","105,000","109,098","98,254",0.94,,#N/A,Not Found,Not Found,Not Found,Not Found
+299930,ACTR - Speed Medya TR - Bim TR - Sep24 - Sep25,09/23/2025,09/25/2025,CPCV,,Delivered in Full,"500,000","750,000","837,240","769,561",1.03,,#N/A,Not Found,Not Found,Not Found,Not Found
+299925,ACTR - Speed Medya TR - Bim TR - Sep20 - Sep21,09/20/2025,09/21/2025,CPCV,,Delivered in Full,"500,000","750,000","824,456","754,403",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299623,ACCS - OMD CZ - Orkla Foods - SimplyFresh - Jul4 - Sep20,45754,09/20/2025,CPCV,,Delivered in Full,"40,000","525,000","549,232","525,993",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299896,ACTR - Speed Medya TR - Bim TR - Sep17 - Sep18,09/17/2025,09/18/2025,CPCV,,Not Delivered in Full,"1,124,999","1,124,999","820,087","743,475",0.66,,299896,Gencay Evren,C-003064,Peddakotla Raviteja,1071428
+299864,ACTR - Vivaki TR - CarrefourSA - Sep 4 - Sep 15,45878,09/15/2025,CPCV,,Delivered in Full,"60,000","420,000","465,024","420,310",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299767,ACTR - Vivaki TR - Lego - Aug5 - Sep15,45755,09/15/2025,CPCV,,Delivered in Full,"113,637","238,637","258,159","238,659",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299820,ACTR - Opet TR - UltraRace - Aug26 - Sep15,08/25/2025,09/15/2025,CPCV,,Delivered in Full,"87,500","1,750,000","1,880,087","1,750,554",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299884,ACTR - Speed Medya TR - Bim TR - Sep13 - Sep14,46000,09/14/2025,CPCV,,Not Delivered in Full,"500,000","800,000","842,724","775,876",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299700,ACUK - UK GOV - DfT Summer Drink - Jul24-Sep14,07/23/2025,09/14/2025,CPCV,,Not Delivered in Full,"47,646","2,382,296","2,407,374","2,298,880",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299793,ACRO - Mediacom - Coca Cola - Aug15 - Aug31,08/15/2025,09/14/2025,CPCV,,Not Delivered in Full,"80,000","1,050,000","1,109,992","1,014,179",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299795,ACRO - Mediacom - Coca Cola - Aug15 - Aug31 AV,08/15/2025,09/14/2025,CPCV,,Not Delivered in Full,"6,100","105,000","112,589","104,753",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299863,ACTR - Vivaki TR - CarrefourSA - TBC - Sep4 - Sep11,45847,45970,CPCV,,Not Delivered in Full,"52,500","210,000","151,195","141,170",0.67,,#N/A,Not Found,Not Found,Not Found,Not Found
+299872,ACTR - Speed Medya TR - Bim TR - Sep10 - Sep11,45909,45970,CPCV,,Delivered in Full,"750,000","1,124,999","1,299,026","1,182,203",1.05,,#N/A,Not Found,Not Found,Not Found,Not Found
+299519,ACCR - Croatia Internal - Admiral Casino - Jun1 - Sep1,06/13/2025,45939,CPCV,,Not Delivered in Full,"1,000","980,000","1,033,830","958,837",0.98,,299519,Idil Yurtan,C-002360,DT,940000
+299812,ACTR -  McCann TR - H&M - Aug21 - Sep10,08/21/2025,45939,CPCV,,Delivered in Full,"200,000","2,008,696","2,173,373","2,012,478",1,,299812,Gencay Evren,C-002932,DT,1913044
+299774,ACCS - Double Star Casino - SK - Aug8 - Sep7,45877,45847,CPCV,,Not Delivered in Full,"35,000","300,000","327,946","289,476",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299759,ACLAUS - Amazon Prime - Aug4 - Sep7,45755,45847,CPM,,Not Delivered in Full,"200,000","3,775,000","3,680,715","3,342,643",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299777,ACLAUS - McDonalds - McDonaldland - Aug12 - Sep7,45999,45847,CPM,,Delivered in Full,"97,000","2,625,000","2,625,378","2,369,268",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299827,ACBG - The Conjuring Last Rites - Alexandra Films - Aug27 - Sep7,08/29/2025,45847,CPCV,,Not Delivered in Full,"15,000","105,000","120,045","102,855",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299833,ACTR - Speed Medya TR - Bim TR - Sep1 - Sep7,08/31/2025,45847,CPCV,,Delivered in Full,"200,000","1,275,000","1,414,703","1,277,319",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299856,ACTR - Speed Medya TR - Bim TR - Sep6 - Sep7,45817,45847,CPCV,,Delivered in Full,"750,000","750,000","837,423","757,604",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299664,ACLAUS - Verizon Mobility - Jul1 - Sep7,07/15/2025,45847,CPM,,Not Delivered in Full,"70,000","2,625,000","2,600,557","2,300,140",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299799,ACME - Dentsu - Vodafone Egypt - Aug15 - Sep6,08/14/2025,45817,CPCV,,Delivered in Full,"13,000","297,000","357,406","297,067",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299829,ACUK - OMD EMEA - Sony Pictures - Big Bold Beautiful Aug 29 Sep 03,08/28/2025,45786,CPCV,,Not Delivered in Full,0,"525,000","543,848","514,896",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299838,ACTR - Speed Medya TR - Bim TR - Sep3 - Sep5,45697,45786,CPCV,,Delivered in Full,"300,000","750,000","834,736","752,573",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299745,ACUK - Three Mobile - Samsung Vendor - Aug1-Sep2,07/31/2025,45697,CPM,,Not Delivered in Full,"53,000","1,963,740","1,958,957","1,824,749",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299615,ACLAUS - Orci North - Jun25 - Sep1,45664,45666,CPM,,Not Delivered in Full,"200,000","1,650,000","278,126","250,223",0.17,,#N/A,Not Found,Not Found,Not Found,Not Found
+299049,ACSR -  Halk bank MK - Mar10 - Dec30,45964,8/31/2025,CPCV,,Not Delivered in Full,"15,000","500,000","582,110","477,569",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299749,ACUK - Samsung ESBO Galaxy Store - Aug04 - Aug31,45724,8/31/2025,CPM,,Not Delivered in Full,"510,000","9,340,489","9,324,631",0,1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299751,ACUK - Samsung ESBO Galaxy Store - Aug04 - Aug31 - BLS,45724,8/31/2025,CPM,,Delivered in Full,"20,000","100,000","100,026","96,508",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299797,ACUK - William Hill - Vegas - Aug18Aug31,08/17/2025,8/31/2025,CPCV,,Not Delivered in Full,"75,000","1,958,826","1,873,958","1,768,662",0.9,,#N/A,Not Found,Not Found,Not Found,Not Found
+299475,ACSR - TCCC_Coca Cola_SAC - June2 - Aug31,45694,8/31/2025,CPCV,,Delivered in Full,"5,000","456,120","483,181","458,183",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299633,ACSR -  McCANN AL – Mastercard - July7 - Aug31,45876,8/31/2025,CPCV,,Delivered in Full,"3,500","202,000","228,560","202,035",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299675,ACSR -  McDonald's SRB_SummerValu - July14 - Aug31,07/17/2025,8/31/2025,CPCV,,Delivered in Full,"4,600","214,000","222,350","214,015",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299680,ACCS - OMD CZ - OrlenGroup CZ - Letni Drinky  - Jul18 - Aug31,07/18/2025,8/31/2025,CPCV,,Delivered in Full,"7,778","350,000","382,233","350,057",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299703,ACSR -  SAMSUNG_Raspustolo - July23 - Aug31,07/24/2025,8/31/2025,CPCV,,Delivered in Full,"5,100","201,000","217,593","201,015",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299726,ACSR -  SAMSUNG_B7Q7 Serbia - July29 - Aug31,07/29/2025,8/31/2025,CPCV,,Delivered in Full,"6,000","201,000","213,892","201,032",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299734,ACSR -  SAMSUNG_B7Q7 Bosnia - July29 - Aug31,07/30/2025,8/31/2025,CPCV,,Delivered in Full,"6,300","206,000","219,676","206,041",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299778,ACSR - L'oreal WMGlow - Aug8 - Aug31,45969,08/31/2025,CPCV,,Delivered in Full,"25,000","192,000","213,884","192,409",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299786,ACSR - L'oreal Watch Glow - Aug8 - Aug31,45999,08/31/2025,CPCV,,Delivered in Full,"9,500","199,000","214,769","199,066",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299807,ACSR - Neptun - Aug18 - Aug31,08/19/2025,08/31/2025,CPCV,,Not Delivered in Full,"30,000","210,000","228,194","209,864",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299818,ACRO - OMD - PepsiCo Summer - Aug1 - Aug31,08/26/2025,08/31/2025,CPCV,,Not Delivered in Full,"51,470","308,823","2,393","2,202",0.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299515,ACTR - Avis - 50. Yil - Jun12 - Aug31,45967,08/31/2025,CPCV,205882,Not Delivered in Full,"5,000","1,028,948","1,052,101","1,008,973",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299695,ACHU - Unilever - Coccolino - Jul23 - Jul31,07/22/2025,08/31/2025,CPCV,,Delivered in Full,"58,464","612,150","657,265","614,949",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299769,ACTR - EssenceMediacom TR - Big Babol - Aug6 - Aug31,45785,08/31/2025,CPCV,"666,667",Delivered in Full,"25,000","582,272","616,877","582,366",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299787,ACSR - L'oreal Watch Glow - Aug8 - Aug31 - Bulgaria version,45969,08/31/2025,CPCV,"2,281,250",Delivered in Full,"9,500","195,000","214,092","195,066",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299789,ACTR - Havas - Jacobs TR - Aug11 - Aug29,08/13/2025,08/31/2025,CPCV,,Not Delivered in Full,"45,000","724,000","769,690","712,939",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299806,ACRO - Mediacom - Coca Cola - Aug15 - Aug31 - BLS,08/19/2025,08/31/2025,CPM,,Not Delivered in Full,"3,846","50,000","48,033","40,025",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299810,ACTR - Speed Medya TR - Bim TR - Aug22 - Aug31,08/22/2025,08/31/2025,CPCV,"1,666,667",Delivered in Full,"55,208","375,000","414,103","377,165",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299813,ACTR - Speed Medya TR - Bim TR - Kirtasiye - Aug22 - Aug31,08/21/2025,08/31/2025,CPCV,681818,Delivered in Full,"210,000","1,875,000","2,076,945","1,877,256",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299814,ACRO - OMD - Pepsico Summer - Aug1 - Aug31,08/25/2025,08/31/2025,CPCV,"2,488,981",Delivered in Full,"50,000","308,000","339,344","310,340",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299817,ACTR - CSA TR - BTS - Aug25 - Aug31,08/24/2025,08/31/2025,CPCV,"312,500",Delivered in Full,"52,500","315,000","344,702","315,227",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299819,ACTR - Speed Medya TR - Bim TR - Kirtasiye - Aug22 - Aug31 - BLS,08/25/2025,08/31/2025,CPM,,Not Delivered in Full,"8,333","50,000","48,047","39,013",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299628,ACUK - UK GOV - RAF - Broad Appeal,45815,08/30/2025,CPCV,,Not Delivered in Full,"46,000","2,650,142","2,618,064","2,463,845",0.93,,#N/A,Not Found,Not Found,Not Found,Not Found
+299709,ACTR - EssenceMediacom TR - Sprite TR - Sprite Summer - Jul25 - Aug30,07/24/2025,08/30/2025,CPCV,"400,000",Delivered in Full,"272,218","2,763,158","2,993,005","2,767,669",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299741,ACTR - EssenceMediacom TR - Cappy TR - Jul30 - Aug30,07/29/2025,08/30/2025,CPCV,,Not Delivered in Full,"122,557","4,000,000","1,267,088","1,173,745",0.29,,#N/A,Not Found,Not Found,Not Found,Not Found
+299606,ACSR -  Tuborg MK - July1 - Aug29,45664,08/29/2025,CPCV,,Not Delivered in Full,"8,000","232,000","259,042","230,365",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299804,ACGR - Feelgood - BringHerBack - Aug19 - Aug29,08/18/2025,08/29/2025,CPCV,,Not Delivered in Full,"28,000","280,000","313,975","279,009",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299722,ACTR - INGBank - Dijital Kart - Jun28 - Aug28,07/27/2025,08/28/2025,CPCV,,Not Delivered in Full,"20,305","649,759","241,652","196,687",0.3,,#N/A,Not Found,Not Found,Not Found,Not Found
+299788,ACUK - GOV DfE YPF - Display AV - Aug11Aug24,45938,08/24/2025,CPM,,Not Delivered in Full,"28,000","300,000","21,682",0,0.07,,#N/A,Not Found,Not Found,Not Found,Not Found
+299750,ACDK - Ternet Ninja 3 - Nordisk Film - Aug1 - Aug24,45665,08/24/2025,CPCV,,Not Delivered in Full,"40,000","240,000","252,862","239,530",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299508,ACLAUS - Medicare - Jun9 - Aug24,45906,08/24/2025,CPM,,Delivered in Full,"1,000,000","2,625,000","2,625,448","2,428,998",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299736,ACME - Total Energies Egypt - July24 - Aug24,07/30/2025,08/24/2025,CPCV,,Delivered in Full,"10,000","242,000","273,158","242,055",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299779,ACRU - 1xBet - Bangladesh - Aug11 - Aug21,45938,08/21/2025,CPCV,,Not Delivered in Full,"175,000","1,575,000","4,935","3,883",0,,#N/A,Not Found,Not Found,Not Found,Not Found
+299780,ACRU - 1xBet - Egypt - Aug11 - Aug21,45938,08/21/2025,CPCV,,Not Delivered in Full,"29,167","262,500","104,747","86,423",0.33,,#N/A,Not Found,Not Found,Not Found,Not Found
+299781,ACRU - 1xBet - Mexico - Aug11 - Aug21,45969,08/21/2025,CPCV,,Not Delivered in Full,"30,000","270,000","17,492","15,179",0.06,,#N/A,Not Found,Not Found,Not Found,Not Found
+299782,ACRU - 1xBet - Uzbekistan - Aug11 - Aug21,45938,08/21/2025,CPCV,,Not Delivered in Full,"68,056","612,500","1,771","1,461",0,,#N/A,Not Found,Not Found,Not Found,Not Found
+299803,ACTR - Speed Medya TR - Bim TR - Aug18 - Aug21,08/17/2025,08/21/2025,CPCV,,Delivered in Full,"110,000","375,000","417,386","375,614",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299720,ACTR - Mediacom TR - Volkswagen TR - Jul28 - Aug20,07/27/2025,08/20/2025,CPCV,,Delivered in Full,"86,150","1,050,000","1,154,480","1,050,473",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299752,ACME - STA//GCC KSA- July30 - Aug15,45665,08/20/2025,CPCV,,Not Delivered in Full,"180,000","682,818","799,618","682,255",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299689,ACRO - Havas Romania EMEA - Carrefour Romania - Jun17 - Aug19,07/21/2025,08/19/2025,CPCV,,Delivered in Full,"11,000","180,000","194,555","180,012",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299663,ACRU - Loreal - Paris Panorama - Jul16 - Jul31,07/16/2025,08/19/2025,CPCV,,Not Delivered in Full,"36,765","514,000","548,571","492,471",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299630,ACUK - UK GOV - DFE Adult Skills,45815,08/17/2025,CPCV,,Not Delivered in Full,"40,000","894,000","849,279","815,569",0.91,,#N/A,Not Found,Not Found,Not Found,Not Found
+299563,ACSR -  Pepsi_Clipsy SRB - June23 - Aug17,06/20/2025,08/17/2025,CPCV,,Not Delivered in Full,"5,500","300,000","315,576","296,436",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299573,ACSR -  Pepsi_Clipsy BA - June23 - Aug17,06/24/2025,08/17/2025,CPCV,,Not Delivered in Full,"6,043","250,000","273,351","249,724",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299610,ACRO - UM - United Romanian Breweries - Jun30 - Aug17,45695,08/17/2025,CPCV,,Not Delivered in Full,"6,000","270,000","279,026","269,791",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299678,ACCS - GroupM SK - Borotalco Man SK - Jul18 - Aug17,07/18/2025,08/17/2025,CPCV,,Not Delivered in Full,"16,180","393,000","419,622","386,121",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299657,ACRO - Publicis - OLX Romania - July14 - Aug17,07/14/2025,08/17/2025,CPCV,,Not Delivered in Full,"5,000","177,000","191,868","176,926",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299798,ACTR - Speed Medya TR - Bim TR - Aug16 - Aug17,08/15/2025,08/17/2025,CPCV,,Delivered in Full,"250,000","375,000","408,375","376,539",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299746,ACTR - Dimes TR - Obsesso TR - Jul31 - Aug15,07/30/2025,08/15/2025,CPCV,,Not Delivered in Full,"300,000","1,625,000","1,892,966","1,624,515",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299765,ACTR - Getir TR - Aug5 - Aug14,45755,08/14/2025,CPCV,,Not Delivered in Full,"200,000","1,500,000","1,592,622","1,447,726",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299785,ACTR - Speed Medya TR - Bim TR - Aug12 - Aug14,45969,08/14/2025,CPCV,,Delivered in Full,"937,500","937,000","1,034,878","943,239",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299631,ACBE - SpaceFwd - Spadel BE - SPA Fruit - Jul7 - Aug4,07/13/2025,08/13/2025,CPCV,,Not Delivered in Full,"60,000","1,170,536","1,231,457","1,156,400",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299233,ACUK - Meta UK - Whatsapp Privacy - May19 - Aug10,05/18/2025,45938,CPCV,,Not Delivered in Full,"220,000","4,341,247","4,834,976","4,275,513",0.98,,299233,NA,-,DT,4341247
+299725,ACME - Edita food industries Morocco - July23 - Aug10,07/29/2025,45938,CPCV,,Not Delivered in Full,"25,000","316,000","345,225","315,975",1,,299725,Sesil Kaprilyan,C-002768,DT,315000
+299605,ACRO - McDonald's Summer Pro - Jun18 - Aug10,45664,45938,CPCV,,Not Delivered in Full,"15,000","520,000","566,029","515,726",0.99,,299605,Sesil Kaprilyan,C-002552,DT,500000
+299644,ACTR - GroupM TR - Avoya TR - Jul10 - Aug10,45907,45938,CPCV,,Not Delivered in Full,"60,000","1,910,000","2,116,666","1,908,488",1,,299644,Gencay Evren,C-002672,DT,1818182
+299748,ACBG - Weapons - Alexandra Films Jul31 - Aug10,07/31/2025,45938,CPCV,,Not Delivered in Full,"11,000","94,000","106,958","93,966",1,,299748,Sesil Kaprilyan,C-002821,DT,90000
+299775,ACTR - Speed Medya TR - Bim TR - Aug9 - Aug10,45877,45938,CPCV,,Delivered in Full,"400,000","562,500","620,241","567,718",1.01,,299775,Gencay Evren,C-002887,DT,535714
+299721,ACTR - UIP - Bad Boys 2 - Jun28 - Aug9,07/27/2025,45908,CPCV,,Not Delivered in Full,"52,262","679,412","740,387","679,408",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299666,ACUK - Navy - Ratings - 7Jul-8Aug,45815,45877,CPCV,,Not Delivered in Full,"53,000","994,000","952,281","901,929",0.91,,#N/A,Not Found,Not Found,Not Found,Not Found
+299667,ACUK - Navy - Marines Q3 25 - Jul7-Aug3,45815,45877,CPCV,,Not Delivered in Full,"53,000","993,440","946,412","900,045",0.91,,#N/A,Not Found,Not Found,Not Found,Not Found
+299511,ACSR -  Share a Coke KOSOVO - June10 - Aug8,45936,45877,CPCV,,Not Delivered in Full,"40,000","226,000","246,169","225,591",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299766,ACTR - Vivaki - Samsung - Jun23 - Jun31 - BLS,45755,45877,CPM,,Not Delivered in Full,"12,500","50,000","47,987","37,706",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299551,ACSR -  Knjaz Milos_Guarana Az - June11 - Aug7,06/19/2025,45846,CPCV,,Not Delivered in Full,"3,500","252,000","267,382","251,763",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299764,ACTR - Speed Medya TR - Bim TR - Aug6 - Aug7,45785,45846,CPCV,,Delivered in Full,"600,000","937,500","1,044,148","939,275",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299655,ACRO - HDigitals Romania - Zdrovit - July14 - July31,07/17/2025,45816,CPCV,,Delivered in Full,"20,000","212,000","227,674","213,600",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299760,ACTR - Speed Medya TR - Bim TR - Aug4 - Aug6,45755,45816,CPCV,,Delivered in Full,"350,000","562,500","615,666","562,823",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299761,ACTR - Speed Medya TR - Bim TR - Tuvalet Kagidi - Aug4 - Aug6,45724,45816,CPCV,,Delivered in Full,"200,000","562,500","624,048","562,968",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299658,ACLAUS -  McDonalds BreakDepth - Jul14 - Aug3,07/14/2025,45755,CPM,,Delivered in Full,"150,000","2,150,000","2,151,013","2,111,152",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299639,ACUK - William Hill - Bonus Drop Boost - BOOST,07/20/2025,45724,CPCV,,Not Delivered in Full,"45,000","493,000","514,855","492,209",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299602,ACDK - Danske Spil Casino - June30 - Aug3,06/30/2025,45724,CPCV,,Not Delivered in Full,"100,000","410,000","418,992","403,532",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299617,ACDK - Danske Spil Casino - June30 - Aug3 - BLS,45723,45724,CPCV,,Not Delivered in Full,"1,500","50,000","1,846","1,798",0.04,,#N/A,Not Found,Not Found,Not Found,Not Found
+299691,ACLAUS -  McDonalds Breakfast - Jul22 - Aug3,07/21/2025,45724,CPM,,Not Delivered in Full,"580,000","6,500,000","6,322,429","6,192,553",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299758,ACTR - Speed Medya TR - Bim TR - Aug2 - Aug3,45665,45724,CPCV,,Delivered in Full,"300,000","562,500","616,420","564,233",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299638,ACLAUS -  McDonalds Snack Wrap - Jul10 - Aug3,45937,45724,CPM,,Not Delivered in Full,"160,000","3,500,000","3,396,493","3,237,498",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299625,ACLAUS - NHTSA Spee - Jul7 - Jul31,45815,45665,CPM,"903,594",Not Delivered in Full,"125,000","2,530,000","2,519,815","2,337,361",1,,,Not Found,Not Found,Not Found,Not Found
+299637,ACUK - William Hill - Bonus Drop Boost - MAIN,45815,7/31/2025,CPCV,,Not Delivered in Full,"64,000","1,388,700","1,450,245","1,387,451",1,,,Not Found,Not Found,Not Found,Not Found
+299496,ACSR -  MK-Share a Coke - June4 - July31,45753,7/31/2025,CPCV,,Not Delivered in Full,500,"230,000","241,345","228,588",0.99,,,Not Found,Not Found,Not Found,Not Found
+299379,ACSR - FantaWanta - May16 - Jul31,05/15/2025,7/31/2025,CPCV,,Not Delivered in Full,"5,000","544,445","589,698","544,034",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299488,ACTR - Vivaki - Lego - Jun3 - Jun30,45694,07/31/2025,CPCV,,Not Delivered in Full,"4,045","238,637","253,152","238,383",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299607,ACRO - Oxygen Romania - Olympus - Jun27 - July31,45664,07/31/2025,CPCV,,Not Delivered in Full,"6,500","201,000","217,097","200,808",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299609,ACTR - EssenceMediacom TR - Big Babol - Jul1 - Jul31,06/30/2025,07/31/2025,CPCV,,Not Delivered in Full,"11,300","352,000","370,121","350,134",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299618,ACME - CIB Ingredients Egypt - July1 - July31,45723,07/31/2025,CPCV,,Not Delivered in Full,"25,000","804,000","962,367","803,210",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299621,ACME - Clorox Egypt - July1 - July31,45754,07/31/2025,CPCV,,Not Delivered in Full,"7,000","233,000","260,431","232,741",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299643,ACME - CIB Ingredients Egypt - July1 - July31 BLS,45937,07/31/2025,CPCV,,Not Delivered in Full,"2,300","50,000","50,218","47,955",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299656,ACTR - CSA - Temmuz - Jun14 - Jun31,07/13/2025,07/31/2025,CPCV,"1,407,476",Not Delivered in Full,"25,000","350,000","371,437","349,450",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299668,ACME - Saudi Tourism Authority KSA - July14 - July25,07/16/2025,07/31/2025,CPCV,1089474,Not Delivered in Full,"11,000","300,000","317,425","295,218",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299694,ACHU - Dentsu - Burger King - Jul23 - Jul31,07/22/2025,07/31/2025,CPCV,"421,053",Delivered in Full,"63,717","311,470","327,403","311,632",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299696,ACTR - Vivaki - Samsung - Jun23 - Jun31,07/22/2025,07/31/2025,CPCV,"681,818",Not Delivered in Full,"152,174","1,369,565","1,431,999","1,341,594",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299727,ACTR - Speed Medya TR - Bim TR - Jul30 - Jul31,07/29/2025,07/31/2025,CPCV,,Delivered in Full,"550,000","937,500","1,014,166","940,517",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299460,ACSR -  Always on AL - June1 - July30,45663,07/30/2025,CPCV,,Not Delivered in Full,"3,500","205,000","216,928","204,773",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299585,ACME - KFH Egypt - June19 - July30,06/25/2025,07/30/2025,CPCV,,Not Delivered in Full,"3,000","151,000","168,511","150,999",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299604,ACUK - Disney Summer 2025 - Jul07 - Jul27,45815,07/27/2025,CPM,,Not Delivered in Full,"125,000","2,500,000","2,478,679","2,357,325",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299616,ACUK - Disney Summer 2025 - Jul07 - Jul27 - BLS,45695,07/27/2025,CPM,,Not Delivered in Full,"10,000","50,000","22,274","21,779",0.45,,#N/A,Not Found,Not Found,Not Found,Not Found
+299603,ACCS - Dentsu CZ - OMV CZ - LednovaKava - Jul1 - Jul27,45664,07/27/2025,CPCV,,Delivered in Full,"40,000","350,000","385,923","353,650",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299710,ACTR - Speed Medya TR - Bim TR - Jul26 - Jul27,07/25/2025,07/27/2025,CPCV,"339,285",Delivered in Full,"550,000","750,000","822,236","757,957",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299592,ACTR - Ford Trucks TR - Tourneo - Jun26 - Jul26,06/26/2025,07/26/2025,CPCV,,Not Delivered in Full,"5,000","928,948","919,983","878,599",0.95,,#N/A,Not Found,Not Found,Not Found,Not Found
+299665,ACCR - Publicis - Samsung Q7 - Jul11 - Jul24,07/16/2025,07/24/2025,CPCV,,Not Delivered in Full,"50,000","205,000","225,549","204,900",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299692,ACTR - Speed Medya TR - Bim TR - Jul23 - Jul24,07/22/2025,07/24/2025,CPCV,,Not Delivered in Full,"500,000","938,000","1,002,739","937,960",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299408,ACSR -  Fanta Wanta - AL - May21 - July19,05/22/2025,07/22/2025,CPCV,,Delivered in Full,"100,000","510,000","559,012","510,544",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299430,ACSR -  Share a Coke - AL - May27 - July20,05/27/2025,07/22/2025,CPCV,,Delivered in Full,"80,000","530,000","581,285","530,734",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299635,ACCS - Starmedia SK - Samsung Z Fold 7 - Jul9 - Jul22,45907,07/22/2025,CPCV,,Delivered in Full,"35,000","225,000","243,321","225,252",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299681,ACTR - Speed Medya TR - Bim TR - Jul18 - Jul20,07/17/2025,07/20/2025,CPCV,,Delivered in Full,"300,000","750,000","806,941","751,388",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299682,ACTR - CSA - Temmuz - Jun18 - Jun20,07/17/2025,07/20/2025,CPCV,,Delivered in Full,"116,667","350,000","383,424","355,610",1.02,,#N/A,Not Found,Not Found,Not Found,Not Found
+299683,ACTR - Speed Medya TR - Bim TR - Jul19 - Jul20,07/18/2025,07/20/2025,CPCV,,Delivered in Full,"450,000","750,000","817,642","751,960",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299662,ACTR - Speed Medya TR - Bim TR - Jul16 - Jul17,07/15/2025,07/17/2025,CPCV,,Not Delivered in Full,"550,000","937,000","1,011,022","933,593",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299640,ACSR -  Coko Koko SRB - June8 - July16,45907,07/16/2025,CPCV,,Delivered in Full,"25,000","202,000","213,617","202,205",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299590,ACSR - Telekom Tarifa MK - June25 - July15,06/26/2025,07/15/2025,CPCV,,Delivered in Full,"40,000","230,000","249,850","230,959",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299613,ACTR - Dimes TR - Temmuz - Jul2 - Jul14,45664,07/14/2025,CPCV,,Delivered in Full,"350,000","1,650,000","1,851,607","1,653,135",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299528,ACCR - Kiki Kras - Jun12 - Jul13,06/17/2025,07/13/2025,CPCV,,Not Delivered in Full,"6,500","230,000","238,479","214,901",0.93,,#N/A,Not Found,Not Found,Not Found,Not Found
+299528,ACCR - Kiki Kras - Jun12 - Jul13,06/17/2025,07/13/2025,CPM,,Not Delivered in Full,"6,500","230,000","37,353","33,964",0.16,,#N/A,Not Found,Not Found,Not Found,Not Found
+299412,ACBE - SpaceFwd - Nivea BE - Daily Soft - May22 - Jul13,05/21/2025,07/13/2025,CPCV,,Not Delivered in Full,"10,052","560,000","608,360","559,005",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299622,ACBG - Superman - Alexandra Films - Jul2 - Jul13,45754,07/13/2025,CPCV,,Not Delivered in Full,"30,000","105,000","115,758","103,350",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299654,ACTR - Speed Medya TR - Bim TR - Jul12 - Jul13,45968,07/13/2025,CPCV,,Delivered in Full,"450,000","750,000","809,531","750,634",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299513,ACTR - Krombera TR - World Line TR - Jun11 - Jun30,45936,45968,CPCV,"909,091",Not Delivered in Full,"18,662","553,000","591,208","551,996",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299525,ACLAUS - McDonalds - Mass Favorites  - Jun17 - July10,06/16/2025,45937,CPM,"1,600,000",Not Delivered in Full,"12,000","1,847,600","1,836,719","1,647,150",0.99,,299525,Idil Yurtan,C-002516,DT,1750000
+299593,ACCS - Netflix CZ - SquidGame - Jun27 - Jul10,06/26/2025,45937,CPCV,1136364,Delivered in Full,"170,000","755,059","826,505","760,775",1.01,,299593,Sesil Kaprilyan,C-002584,DT,719101
+299636,ACTR - Speed Medya TR - Bim TR - Jul9 - Jul10,45876,45937,CPCV,,Delivered in Full,"550,000","937,500","1,033,548","955,410",1.02,,299636,Gencay Evren,C-002656,DT,892857
+299424,ACSR -  Vitaminka - May21 - July8,05/23/2025,45876,CPCV,,Not Delivered in Full,"2,500","201,000","232,472","200,316",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299505,ACSR -  Neptun - Lucky Days - June9 - July7,45875,45876,CPCV,,Not Delivered in Full,"30,000","210,000","217,611","202,127",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299493,ACUK - Disney The Bear S4 25 Q2 - Jun19 - Jul06 - Phase 3,06/25/2025,45845,CPM,,Not Delivered in Full,"100,000","1,900,000","1,894,598","1,805,920",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299589,ACRO - Publicis EMEA - Intersnack Romania - Chio Equit - Jun25 - July7,06/26/2025,45845,CPCV,"588,236",Not Delivered in Full,"19,000","210,000","220,381","209,903",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299372,ACSR -  Pepsi Meals - May12 - Jul7,05/14/2025,45845,CPCV,"175,438",Not Delivered in Full,"3,500","205,000","224,223","204,931",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299406,ACME - Vivo Egypt - May16 - July7,05/21/2025,45845,CPCV,,Not Delivered in Full,"10,000","600,000","655,525","599,622",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299494,ACUK - Disney The Bear S4 25 Q2 - Jun19 - Jul06 - BLS,45753,45815,CPM,"210,526",Not Delivered in Full,"10,000","50,000","41,994","41,275",0.84,,#N/A,Not Found,Not Found,Not Found,Not Found
+299578,ACHU - Dentsu - Burger King - Jun24 - Jul6,06/23/2025,45815,CPCV,681818,Not Delivered in Full,"100,000","357,000","45,240","43,362",0.12,,#N/A,Not Found,Not Found,Not Found,Not Found
+299624,ACTR - Speed Medya TR - Bim TR - Jul5 - Jul6,45754,45815,CPCV,175438,Delivered in Full,"450,000","750,000","811,069","752,908",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299376,ACBG - Cappy Lemonade  - BG Huts - May14 - Jul4,05/16/2025,45754,CPCV,"312,000",Not Delivered in Full,"3,300","160,000","173,879","159,911",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299316,ACSR -  Nutrino Lab SRB - May5 - July3,45782,45723,CPCV,"909,091",Delivered in Full,"30,000","668,000","731,014","668,074",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299612,ACTR - Speed Medya TR - Bim TR - Jul2 - Jul3,45664,45723,CPCV,"909,091",Delivered in Full,"600,000","937,500","1,024,216","947,352",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299549,ACRU - Publicis KZ - Meloman Lego - Jun19 - Jun30,06/19/2025,45695,CPCV,"526,316",Delivered in Full,"250,000","1,050,000","1,123,370","1,051,100",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299168,ACUK - The7Stars UK EMEA_Foxy Bingo UK - Apr1 - Jun30,03/31/2025,06/30/2025,CPCV,"645,161",Not Delivered in Full,"60,000","1,863,888","1,827,870","1,734,953",0.93,,#N/A,Not Found,Not Found,Not Found,Not Found
+299319,ACUK - Three Mobile - Happy Customers - 2May-30May,45662,06/30/2025,CPM,"315,789",Not Delivered in Full,"72,641","3,961,500","2,132,714","2,002,206",0.54,,#N/A,Not Found,Not Found,Not Found,Not Found
+299405,ACUK - William Hill - Daily Price Drops - May19-Jun30,05/20/2025,06/30/2025,CPCV,"166,667",Not Delivered in Full,"280,000","3,000,000","2,752,454","2,625,926",0.88,,#N/A,Not Found,Not Found,Not Found,Not Found
+299497,ACUK - Three Mobile - Happy Customers - 4June-30June,45722,06/30/2025,CPM,"1,590,909",Not Delivered in Full,"150,000","3,565,600","2,819,645","2,626,253",0.79,,#N/A,Not Found,Not Found,Not Found,Not Found
+299321,ACSR -  Fanta Wanta - BA - May2 - June30,45693,06/30/2025,CPCV,"177,273",Not Delivered in Full,"5,000","340,000","360,552","330,045",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299328,ACSR -  Fanta Wanta - MK - May5 - June30,45782,06/30/2025,CPCV,"681,818",Delivered in Full,"10,000","205,000","219,533","205,169",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299333,ACCR - Samsung A Series CC - May6 - Jun30,45813,06/30/2025,CPCV,1136364,Not Delivered in Full,"5,000","243,000","266,170","238,436",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299362,ACSR -  Fanta Wanta - MK - May13 - June30,05/13/2025,06/30/2025,CPCV,"526,316",Not Delivered in Full,"13,000","205,000","221,742","204,350",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299397,ACCR - Fanta Wanta - May20 - Jun30,05/21/2025,06/30/2025,CPCV,764700,Not Delivered in Full,"15,000","280,350","301,285","274,974",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299459,ACSR -  Unilever_Cocolino SRB - May28 - June30,05/30/2025,06/30/2025,CPCV,160667,Not Delivered in Full,"7,000","205,000","216,327","203,039",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299466,ACRO - Carrefour - May30 - Jun30,05/30/2025,06/30/2025,CPM,60000,Not Delivered in Full,"80,000","420,000","210,664","17,467",0.5,,#N/A,Not Found,Not Found,Not Found,Not Found
+299500,ACCR - Coca Cola Share Coke - Jun4 - Jun30,45783,06/30/2025,CPCV,"545,455",Not Delivered in Full,"30,000","210,000","237,224","209,908",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299502,ACCS - GroupM CZ - Mentos - Jun5 - Jun30,45783,06/30/2025,CPCV,10000,Delivered in Full,"100,000","700,000","739,458","700,391",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299377,ACME - Kelloggs Egypt - May16 - May31,05/15/2025,06/30/2025,CPCV,"615,385",Not Delivered in Full,"9,000","481,651","533,185","480,328",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299426,ACME - Himalaya Wellness Company - KSA - May14 - June30,05/26/2025,06/30/2025,CPCV,"526,316",Not Delivered in Full,"12,000","570,000","647,456","569,602",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299427,ACME - Himalaya Wellness Company - UAE - May14 - June30,05/26/2025,06/30/2025,CPCV,"1,951,220",Delivered in Full,"70,000","500,000","551,301","501,662",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299432,ACRO - McDonalds Super Combo - May22 - Jun15,05/27/2025,06/30/2025,CPCV,"1,590,909",Not Delivered in Full,"65,000","525,000","555,626","510,413",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299432,ACRO - McDonalds Super Combo - May22 - Jun15,05/27/2025,06/30/2025,CPM,,Not Delivered in Full,"10,000","10,000","3,534","3,152",0.35,,#N/A,Not Found,Not Found,Not Found,Not Found
+299433,ACTR - EssenceMediacom TR - Coca Cola TR - Jun1 - Jun30,05/31/2025,06/30/2025,CPCV,,Not Delivered in Full,"55,000","1,560,000","1,643,951","1,559,169",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299458,ACGR - Axe - Kenobi - May29 - Jun15,05/28/2025,06/30/2025,CPCV,,Not Delivered in Full,"7,576","262,500","283,180","262,264",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299462,ACTR - EssenceMediacom TR - Audi TR - A6 E-tron - Jun16 - Jun30,06/15/2025,06/30/2025,CPCV,,Not Delivered in Full,"27,000","350,000","389,272","349,449",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299463,ACME - Egypt EMEA_Edita food - May29 - June30,05/30/2025,06/30/2025,CPCV,,Delivered in Full,"10,000","226,000","258,281","227,632",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299467,ACRO - Pepsico - OMD - May23 - Jun30,05/30/2025,06/30/2025,CPCV,,Not Delivered in Full,"10,500","320,000","343,375","319,808",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299476,ACTR - EssenceMediacom TR - Audi TR - A6 E-tron - Jun2 - Jun30,45663,06/30/2025,CPCV,,Not Delivered in Full,"26,000","700,000","780,207","699,503",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299477,ACTR - Speed Medya TR - Bim TR - Jun11 - Jun30,45936,06/30/2025,CPCV,,Not Delivered in Full,"63,636","1,145,454","470,759","435,247",0.38,,#N/A,Not Found,Not Found,Not Found,Not Found
+299481,ACTR - Native Media TR - Mavi Jeans TR - Kartus - Jun2 - Jun30,45663,06/30/2025,CPCV,"681,818",Not Delivered in Full,"10,234","276,316","302,460","276,108",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299482,ACGR - Axe - Kenobi - May29 - Jun15 - BLS,05/28/2025,06/30/2025,CPM,,Not Delivered in Full,"2,000","50,000","42,132","36,457",0.84,,,Not Found,Not Found,Not Found,Not Found
+299486,ACTR - Castrol - Power1 - Jun3 - Jun30,45694,06/30/2025,CPCV,"1,666,667",Not Delivered in Full,"50,000","828,948","923,205","828,270",1,,,Not Found,Not Found,Not Found,Not Found
+299491,ACME - Egypt EMEA_Spotify EGY - June3 - June30,45753,06/30/2025,CPCV,"909,091",Not Delivered in Full,"18,000","470,000","549,273","469,646",1,,,Not Found,Not Found,Not Found,Not Found
+299495,ACTR - Forward Media TR - Pluxee - Jun4 - Jun30,45722,06/30/2025,CPCV,,Not Delivered in Full,"28,636","716,000","760,897","715,456",1,,,Not Found,Not Found,Not Found,Not Found
+299509,ACTR - Initiative TR - ING Bank TR - Jun10 - Jun30,45906,06/30/2025,CPCV,,Not Delivered in Full,"37,500","716,000","775,022","715,283",1,,,Not Found,Not Found,Not Found,Not Found
+299526,ACTR - EssenceMediacom TR - Audi TR - A6 E-tron - Jun16 - Jun30 - Free,06/15/2025,06/30/2025,CPCV,,Not Delivered in Full,"5,500","70,000","77,727","69,884",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299527,ACME - Himalaya Wellness Company - UAE - May14 - June30 - BLS,06/17/2025,06/30/2025,CPCV,"526,316",Not Delivered in Full,"2,800","50,000","9,857","9,601",0.19,,#N/A,Not Found,Not Found,Not Found,Not Found
+299530,ACME - Himalaya Wellness Company - KSA - May14 - June30 - BLS,06/17/2025,06/30/2025,CPCV,681818,Not Delivered in Full,"2,800","50,000","10,649","9,598",0.19,,#N/A,Not Found,Not Found,Not Found,Not Found
+299546,ACME - Himalaya Wellness Company - KSA - May14 - June30 - Added Value,06/19/2025,06/30/2025,CPCV,"1,212,121",Delivered in Full,"10,000","113,000","124,086","113,483",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299570,ACTR - Dimes TR - Dimesclub - Jun23 - Jun30,06/22/2025,06/30/2025,CPCV,281230,Not Delivered in Full,"800,000","6,350,000","2,750,118","2,417,590",0.38,,#N/A,Not Found,Not Found,Not Found,Not Found
+299577,ACHU - AXE Kenobi - Jun24 - Jun30,06/23/2025,06/30/2025,CPCV,681818,Delivered in Full,"357,000","357,000","371,891","357,597",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299579,ACTR - Opet - UTTS - Jun24 - Jun30,06/23/2025,06/30/2025,CPCV,681818,Not Delivered in Full,"250,000","1,750,000","1,980,390","1,748,874",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299547,ACME - Himalaya Wellness Company - UAE - May14 - June30 -  Added Value,06/19/2025,06/30/2025,CPCV,"681,818",Not Delivered in Full,"9,000","99,000","105,830","98,890",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299561,ACME - OMD Egypt EMEA_Biskrem EGY - June17 - June30,06/19/2025,06/30/2025,CPCV,"312,000",Delivered in Full,"30,000","331,000","362,488","334,377",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299364,ACCS - Wavemaker SK - Plzensky Prazdroj SK - May13 - Jun29,05/13/2025,06/29/2025,CPCV,532609,Not Delivered in Full,"4,500","205,883","219,754","205,430",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299396,ACBG - Schweppes Fizz It Up - May19 - Jun29,05/20/2025,06/29/2025,CPCV,"1,000,000",Not Delivered in Full,"8,000","164,289","176,506","161,480",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299468,ACBG - Ferratum - Broks Vision - May30 - Jun29,05/30/2025,06/29/2025,CPCV,"909,091",Not Delivered in Full,"60,000","525,000","570,756","515,032",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299550,ACBG - F1 - Alexandra Films - Jun18 - Jun29,06/19/2025,06/29/2025,CPCV,"1,578,947",Delivered in Full,"40,000","105,000","120,537","106,986",1.02,,#N/A,Not Found,Not Found,Not Found,Not Found
+299596,ACTR - Speed Medya TR - Bim TR - Jun28 - Jun29,06/27/2025,06/29/2025,CPCV,"1,086,956",Not Delivered in Full,"715,909","715,909","1,375,762","709,944",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299422,ACSR -  OMD SRB - Pepsico Chipsy - May23 - June28,05/23/2025,06/28/2025,CPCV,"526,316",Not Delivered in Full,"1,000","390,000","427,959","389,763",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299425,ACSR -  Pepsi Co_Chipsy_NCP_SRB - May20 - June28,05/26/2025,06/28/2025,CPCV,"714,286",Delivered in Full,"25,000","565,000","622,645","568,051",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299514,ACTR - Adinteraction TR - BTC Turk TR - Gamefest - Jun12 - Jun30,45967,06/26/2025,CPCV,1136364,Not Delivered in Full,"66,578","716,000","772,725","715,380",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299583,ACTR - Speed Medya TR - Bim TR - Jun25 - Jun26,06/24/2025,06/26/2025,CPCV,"218,750",Delivered in Full,"450,000","715,909","780,166","722,442",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299480,ACUK - Disney The Bear S4 25 Q2 - Jun19 - Jul06 - Phase 1,06/18/2025,06/25/2025,CPM,681818,Not Delivered in Full,0,"1,483,576","1,420,289","1,354,294",0.96,,#N/A,Not Found,Not Found,Not Found,Not Found
+299492,ACUK - Disney The Bear S4 25 Q2 - Jun19 - Jul06 - Phase 2,06/22/2025,06/25/2025,CPM,"681,818",Not Delivered in Full,"312,044","936,132","733,754","702,139",0.78,,#N/A,Not Found,Not Found,Not Found,Not Found
+299272,ACTR - Nestle - Nesquik - Apr14 - Jun24,04/23/2025,06/24/2025,CPCV,"2,606,882",Not Delivered in Full,"10,926","677,419","712,114","677,102",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299455,ACGR - Knorr - Snack 25 - Jun1 - Jun23,05/31/2025,06/23/2025,CPCV,"781,250",Not Delivered in Full,"7,955","175,000","187,965","174,908",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299360,ACTR - Zoom Iletisim TR - Hopi TR - Hopi 10. Yil - May12 - Jun22,45966,06/22/2025,CPCV,"300,000",Not Delivered in Full,"56,000","1,270,000","1,169,483","1,057,835",0.83,,#N/A,Not Found,Not Found,Not Found,Not Found
+299490,ACTR - Opet - OpetPay - Jun1 - Jun30,45722,06/22/2025,CPCV,"1,363,636",Not Delivered in Full,"56,031","715,909","767,444","714,183",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299564,ACTR - Speed Medya TR - Bim TR - Jun21 - Jun22,06/21/2025,06/22/2025,CPCV,"681,818",Delivered in Full,"400,000","716,000","771,716","718,275",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299565,ACTR - CSA - Haziran - Jun20 - Jun22,06/19/2025,06/22/2025,CPCV,"681,818",Delivered in Full,"100,000","210,000","228,290","210,262",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299428,ACCS - GroupM CZ - L'oreal CZ - Hydra - May26 - Jun21,05/26/2025,06/21/2025,CPCV,,Not Delivered in Full,"35,000","1,280,000","1,372,734","1,279,712",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299529,ACTR - Speed Medya TR - Bim TR - Jun18 - Jun19,06/18/2025,06/19/2025,CPCV,"500,000",Not Delivered in Full,"400,000","716,000","770,739","715,671",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299356,ACUK - Three Mobile - S25 Launch - May 25,45966,06/16/2025,CPM,"1,363,636",Not Delivered in Full,"150,000","1,407,476","1,407,467","1,286,843",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299456,ACSR - McDonald's SRB_Squishmellows - May28 - June15,05/29/2025,06/16/2025,CPCV,342105,Delivered in Full,"120,000","201,000","224,038","208,590",1.04,,#N/A,Not Found,Not Found,Not Found,Not Found
+299461,ACTR - HM - Summer - Jun1 - Jun16,45663,06/16/2025,CPCV,1363636,Delivered in Full,"69,079","1,105,264","1,176,696","1,105,450",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299413,ACME - Danone MOR - May5 - June15,05/22/2025,06/15/2025,CPCV,347368,Delivered in Full,"35,000","893,000","990,168","894,490",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299416,ACSR - L'Oreal SRB - CeraVe CRO - May20 - June15,05/23/2025,06/15/2025,CPCV,,Delivered in Full,"30,000","192,000","204,589","195,089",1.02,,#N/A,Not Found,Not Found,Not Found,Not Found
+299421,ACSR - L'Oreal SRB - CeraVe BA - May20 - June15,05/23/2025,06/15/2025,CPCV,,Delivered in Full,"30,000","192,000","202,715","194,639",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299454,ACSR - L'Oreal SRB_CeraVe SRB - May28 - June15,05/29/2025,06/15/2025,CPCV,,Delivered in Full,"60,000","220,000","250,644","230,725",1.05,,#N/A,Not Found,Not Found,Not Found,Not Found
+299325,ACLAUS - McDonalds - McCrispy - May5 - June15,45752,06/15/2025,CPM,,Not Delivered in Full,"170,000","7,500,210","7,319,083","6,958,408",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299354,ACLAUS - Amazon - May12 - June15,45996,06/15/2025,CPM,,Not Delivered in Full,"111,000","3,765,000","3,674,886","3,385,962",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299417,ACSR - L'Oreal SRB - CeraVe BG - May20 - June15,05/23/2025,06/15/2025,CPCV,,Not Delivered in Full,"10,000","193,000","204,425","192,187",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299521,ACTR - Speed Medya TR - Bim TR - Jun14 - Jun15,06/14/2025,06/15/2025,CPCV,,Delivered in Full,"400,000","716,000","781,112","725,151",1.01,,#N/A,Not Found,Not Found,Not Found,Not Found
+299522,ACTR - CSA - Haziran - Jun13 - Jun15,45997,06/15/2025,CPCV,,Delivered in Full,"70,000","210,000","223,821","210,211",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299510,ACTR - Speed Medya TR - Bim TR - Jun11 - Jun12,45967,45997,CPCV,1363636,Delivered in Full,"400,000","716,000","765,790","718,090",1,,,Not Found,Not Found,Not Found,Not Found
+299429,ACSR - WMG Bambi SRB - May22 - June11,05/27/2025,45967,CPCV,"666,667",Delivered in Full,"50,000","201,000","228,313","204,825",1.02,,,Not Found,Not Found,Not Found,Not Found
+299367,ACBG - Devin Bublz - Universal Media - May12 - Jun11,05/14/2025,45967,CPCV,"1,578,947",Not Delivered in Full,"3,000","250,000","266,805","248,872",1,,,Not Found,Not Found,Not Found,Not Found
+299178,ACSR - Doritos Q2 SRB - Mar31 - June10,45720,45936,CPCV,,Not Delivered in Full,"3,800","380,000","410,177","374,153",0.98,,,Sesil Kaprilyan,C-001955,DT,369999
+299198,ACSR -  Doritos BA - Apr1 - June10,45751,45936,CPCV,,Not Delivered in Full,"30,000","230,000","249,926","227,002",0.99,,,Sesil Kaprilyan,C-001956,DT,222665
+299399,ACSR - L'Oreal SRB - Anthelios - May17 - June10,05/21/2025,45936,CPCV,,Delivered in Full,"12,000","192,000","204,022","192,351",1,,,Sesil Kaprilyan,C-002242,DT,190000
+299404,ACSR - L'Oreal SRB - Anthelios BA - May17 - June10,05/21/2025,45936,CPCV,,Delivered in Full,"9,000","191,000","207,386","191,027",1,,,Sesil Kaprilyan,C-002242,DT,190000
+299420,ACSR - L'Oreal SRB - Anthelios CRO - May17 - June10,05/23/2025,45936,CPCV,"394,841",Delivered in Full,"10,000","191,000","210,649","192,086",1.01,,,Sesil Kaprilyan,C-002243,DT,190000
+299361,ACTR - Ford - Tourneo Courier - May13 - Jun10,45996,45936,CPCV,218749,Not Delivered in Full,"20,584","1,028,948","1,171,062","1,028,517",1,,,Gencay Evren,C-002161,DT,789474
+299402,ACSR - L'Oreal SRB - Anthelios BG - May17 - June10,05/21/2025,45936,CPCV,789474,Delivered in Full,"9,000","192,000","205,808","192,142",1,,,Sesil Kaprilyan,C-002241,DT,190000
+299457,ACTR - Speed Medya TR - Bim TR - Jun1 - Jun10,45663,45936,CPCV,"178,555",Delivered in Full,"90,000","860,000","934,741","860,360",1,,,Gencay Evren,C-002354,DT,819047
+299419,ACRO - Intersnack - Chio Core New Equity - May23 - Jun9,05/23/2025,45906,CPCV,"789,474",Not Delivered in Full,"13,000","216,000","221,527","210,706",0.98,,,Not Found,Not Found,Not Found,Not Found
+299501,ACTR - Speed Medya TR - Bim TR - Jun8 - Jun9,45844,45906,CPCV,315789,Delivered in Full,"400,000","716,000","771,857","717,876",1,,,Not Found,Not Found,Not Found,Not Found
+299388,ACUK - Taco Bell - Vinted - 19May-6Jun - Taco Bell,05/18/2025,45875,CPM,"218,750",Not Delivered in Full,"120,000","3,678,486","3,366,908",0,0.92,,,Not Found,Not Found,Not Found,Not Found
+299375,ACSR - Deichmann - Media House - May19 - June8,05/19/2025,45875,CPCV,800000,Delivered in Full,"50,000","205,000","235,356","206,460",1.01,,,Not Found,Not Found,Not Found,Not Found
+299394,ACCS - Mindshare SK - Unilever - Hellmans - May20 - Jun8,05/20/2025,45875,CPCV,394901,Delivered in Full,"60,000","352,941","383,650","354,187",1,,,Not Found,Not Found,Not Found,Not Found
+299398,ACSR -  Neptun MK - May19 - June8,05/21/2025,45875,CPCV,263158,Delivered in Full,"15,000","205,000","218,570","205,192",1,,,Not Found,Not Found,Not Found,Not Found
+299327,ACTR - EssenceMedia - BigBabol - May5 - May31,45752,45875,CPCV,"441,176",Not Delivered in Full,"25,000","582,272","590,024","558,764",0.96,,,Not Found,Not Found,Not Found,Not Found
+299464,ACME - AddBloom_Empire Entertainment - KSA - May27 - June8,05/30/2025,45875,CPCV,1600000,Delivered in Full,"10,000","190,000","213,135","190,372",1,,,Not Found,Not Found,Not Found,Not Found
+299465,ACME - AddBloom_Empire Entertainment - UAE - May27 - June8,05/30/2025,45875,CPCV,454545,Delivered in Full,"70,000","228,000","245,387","228,322",1,,,Not Found,Not Found,Not Found,Not Found
+299498,ACRO - Banca Transilvania - Jun4 - Jun6,45753,45814,CPCV,"1,363,636",Not Delivered in Full,"200,000","337,500","368,018","331,063",0.98,,,Not Found,Not Found,Not Found,Not Found
+299487,ACME - Danone - Morocco - May21 - Jun5,45722,45783,CPCV,1026316,Delivered in Full,"250,000","440,000","524,096","444,252",1.01,,,Not Found,Not Found,Not Found,Not Found
+299322,ACCS - Dentsu CZ - Fortuna CZ - May2 - May31,45693,45694,CPCV,"681,818",Not Delivered in Full,"40,000","1,400,000","1,523,117","1,372,211",0.98,,,Not Found,Not Found,Not Found,Not Found
+299373,ACRO - Intersnack Pombar - May14 - Jun2,05/15/2025,45694,CPCV,526316,Not Delivered in Full,"12,000","210,000","212,197","201,417",0.96,,,Not Found,Not Found,Not Found,Not Found
+299469,ACTR - Speed Medya TR - Bim TR - Jun1 - Jun2,45663,45694,CPCV,"909,091",Delivered in Full,"400,000","716,000","769,871","718,439",1,,,Not Found,Not Found,Not Found,Not Found
+299470,ACTR - Speed Medya TR - Bim TR - Karma - Jun1 - Jun2,45663,45694,CPCV,1363636,Delivered in Full,"400,000","716,000","767,866","718,203",1,,,Not Found,Not Found,Not Found,Not Found
+299230,ACSR - OMD - Voda Voda SRB - Apr9 - May31,45965,05/31/2025,CPCV,"268,245",Not Delivered in Full,"4,400","202,000","228,331","201,045",1,,,Not Found,Not Found,Not Found,Not Found
+299395,ACCS - Digiline - ZSE Energia - May20 - May31,05/20/2025,05/31/2025,CPCV,"394,737",Delivered in Full,"26,250","262,500","288,954","262,643",1,,,Not Found,Not Found,Not Found,Not Found
+299271,ACGR - OMD - PepsiCo - Electric - Apr24 - May31,04/23/2025,05/31/2025,CPCV,"578,947",Not Delivered in Full,"4,730","175,000","184,336","174,970",1,,,Not Found,Not Found,Not Found,Not Found
+299285,ACTR - Arcelik - 70Yil - Apr25 - May31,04/24/2025,05/31/2025,CPCV,"3,333,333",Not Delivered in Full,"14,936","552,632","586,545","552,470",1,,,Not Found,Not Found,Not Found,Not Found
+299334,ACRO - OMD PepsiCo - Doritos - May1 - May31,45813,05/31/2025,CPCV,"681,818",Delivered in Full,"35,000","780,000","849,535","780,050",1,,,Not Found,Not Found,Not Found,Not Found
+299393,ACTR - HM - Summer - May20 - May31,05/19/2025,05/31/2025,CPCV,"909,091",Delivered in Full,"202,811","1,105,264","1,199,783","1,112,023",1.01,,,Not Found,Not Found,Not Found,Not Found
+299407,ACME - Beko- EGY- May15 - May31,05/21/2025,05/31/2025,CPCV,"833,333",Delivered in Full,"25,000","223,000","265,283","226,467",1.02,,,Not Found,Not Found,Not Found,Not Found
+299411,ACTR - EssenceMediacom TR - Coca Cola TR - May22 - May30,05/21/2025,05/31/2025,CPCV,"1,212,121",Delivered in Full,"20,000","500,000","530,581","501,396",1,,,Not Found,Not Found,Not Found,Not Found
+299450,ACTR - Speed Medya TR - Bim TR - May28 - May31,05/27/2025,05/31/2025,CPCV,"1,072,033",Delivered in Full,"230,000","859,091","932,074","860,289",1,,,Not Found,Not Found,Not Found,Not Found
+299363,ACSR -  Iute Macedonia - May7 - June30,05/13/2025,05/30/2025,CPCV,"900,000",Not Delivered in Full,"35,000","205,000","225,930","204,780",1,,,Not Found,Not Found,Not Found,Not Found
+299434,ACTR - Speed Medya TR - Bim TR - May27 - May29,05/26/2025,05/29/2025,CPCV,"1,990,042",Delivered in Full,"30,000","755,909","832,528","757,520",1,,,Not Found,Not Found,Not Found,Not Found
+299357,ACME - Arab United Bank - EGY May6 - May25,45996,05/25/2025,CPCV,"1,113,347",Not Delivered in Full,"25,000","352,000","421,736","351,289",1,,,Not Found,Not Found,Not Found,Not Found
+299401,ACTR - Speed Medya TR - Bim TR - May21 - May25,05/20/2025,05/25/2025,CPCV,"900,000",Delivered in Full,"200,000","954,546","1,020,178","955,572",1,,,Not Found,Not Found,Not Found,Not Found
+299418,ACTR - CSA - Mayis - May23 - May25,05/22/2025,05/25/2025,CPCV,"100,000",Delivered in Full,"200,000","310,000","343,603","321,790",1.04,,,Not Found,Not Found,Not Found,Not Found
+299423,ACTR - Speed Medya TR - Bim TR - May24 - May25,05/23/2025,05/25/2025,CPCV,"1,578,947",Delivered in Full,"400,000","715,909","781,192","717,819",1,,,Not Found,Not Found,Not Found,Not Found
+299400,ACTR - Speed Medya TR - Bim TR - May21 - May22,05/20/2025,05/22/2025,CPCV,"363,636",Delivered in Full,"700,000","1,193,000","1,301,218","1,208,192",1.01,,,Not Found,Not Found,Not Found,Not Found
+299124,ACSR - KB Online Potrosuvacki - Mar23 - May21,03/23/2025,05/21/2025,CPCV,"526,316",Delivered in Full,"8,000","188,000","214,862","188,010",1,,,Not Found,Not Found,Not Found,Not Found
+299326,ACME - Pepsico Egypt - Apr29 - May20,45782,05/20/2025,CPCV,"1,000,000",Delivered in Full,"30,000","236,250","267,279","237,029",1,,,Not Found,Not Found,Not Found,Not Found
+299350,ACTR - Zynga - Okey101 - May9 - May20,45874,05/20/2025,CPCV,,Delivered in Full,"73,043","1,680,000","1,954,357","1,680,404",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299358,ACTR - MindLook TR - Istanbul Medya - IstanbulKart Mayis - May9 - May15,45966,05/20/2025,CPCV,,Delivered in Full,"100,000","390,000","462,897","391,532",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299320,ACUK - WB Pics - Final Destination,45752,05/18/2025,CPCV,,Not Delivered in Full,"35,000","800,000","700,689","613,610",0.77,,#N/A,Not Found,Not Found,Not Found,Not Found
+299273,ACTR - Vivaki TR - Disney+ TR - Kalender Pide - Apr24 - May18,04/23/2025,05/18/2025,CPCV,,Not Delivered in Full,"14,416","331,578","363,912","331,468",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299359,ACBE - Randstad - Healthcare & Aviation - May12 - May18,45966,05/18/2025,CPCV,,Delivered in Full,"5,500","373,250","396,279","373,300",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299205,ACBE - SpaceFwd - Combell - WebsiteBuilder - Mar7 - May16,45812,05/16/2025,CPCV,,Delivered in Full,"30,000","696,429","749,430","696,760",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299370,ACTR - Speed Medya TR - Bim TR - May14 - May15,05/13/2025,05/15/2025,CPCV,909091,Delivered in Full,"700,000","1,193,182","1,296,749","1,197,409",1,,,Not Found,Not Found,Not Found,Not Found
+299299,ACTR - Turkcell - Zeka Gucu - May1 - May13,45662,05/13/2025,CPCV,"869,677",Not Delivered in Full,"17,004","221,052","280,880","220,937",1,,,Not Found,Not Found,Not Found,Not Found
+299352,ACTR - Ingage TR - Arcelik TR - Anneler Gunu - Apr10 - May11,45905,45966,CPCV,"2,236,431",Delivered in Full,"300,000","442,106","523,357","445,094",1.01,,,Not Found,Not Found,Not Found,Not Found
+299353,ACTR - Speed Medya TR - Bim TR - May10 - May11,45905,45966,CPCV,,Delivered in Full,"400,000","716,000","789,407","725,019",1.01,,,Not Found,Not Found,Not Found,Not Found
+299337,ACTR - Speed Medya TR - Bim TR - May7 - May8,45813,45874,CPCV,,Delivered in Full,"650,000","955,000","1,051,464","967,667",1.01,,,Not Found,Not Found,Not Found,Not Found
+299179,ACUK - Publicis UK - L'Oreal RVL - Apr7 - May7,45812,45843,CPM,,Not Delivered in Full,0,"2,498,981","2,481,256","2,298,768",0.99,,,Not Found,Not Found,Not Found,Not Found
+299297,ACRO - ReckBenckiser - Durex - Flight II - Apr23 - Apr30,04/29/2025,45782,CPCV,,Not Delivered in Full,"42,000","620,000","517,763","483,210",0.78,,,Not Found,Not Found,Not Found,Not Found
+299241,ACBE - SpaceFwd - Tempo - Team BE - Apr14 - May5,04/13/2025,45782,CPCV,,Delivered in Full,"8,033","176,734","183,545","176,799",1,,,Not Found,Not Found,Not Found,Not Found
+299323,ACTR - Speed Medya TR - Bim TR - May3 - May4,45693,45752,CPCV,,Delivered in Full,"400,000","716,000","771,134","717,874",1,,,Not Found,Not Found,Not Found,Not Found
+299201,Dentsu Aegis UK EMEA_Co-op UK_Aldi Price Match - Apr4 - Apr30,45720,04/30/2025,CPCV,,Not Delivered in Full,"14,797","443,073","424,783","410,123",0.93,,,Not Found,Not Found,Not Found,Not Found
+299202,Dentsu Aegis UK EMEA_Co-op UK_Aldi Price Match - Apr4 - Apr30 - Added Value,45812,04/30/2025,CPCV,,Not Delivered in Full,"2,080","45,000","45,818","44,340",0.99,,,Not Found,Not Found,Not Found,Not Found
+299200,ACRO - PepsiCo Star - Apr4 - Apr30,45751,04/30/2025,CPCV,,Delivered in Full,"30,000","700,000","764,375","700,224",1,,,Not Found,Not Found,Not Found,Not Found
+299247,ACRO - ReckBenckiser Gaviscon - Apr1 - Apr30 Copy,04/14/2025,04/30/2025,CPCV,,Delivered in Full,"120,000","800,000","847,522","800,316",1,,,Not Found,Not Found,Not Found,Not Found
+299248,ACRO - PepsiCo Star - Apr4 - Apr30 AV,45751,04/30/2025,CPCV,,Delivered in Full,650,"10,500","11,507","10,500",1,,,Not Found,Not Found,Not Found,Not Found
+298978,ACTR - PHD TR - Knorr TR - Cabuk Corba Twist - Feb21 - Feb28,02/20/2025,04/30/2025,CPCV,,Not Delivered in Full,"25,000","954,546","1,017,424","954,205",1,,,Not Found,Not Found,Not Found,Not Found
+299161,ACTR - Universal McCann TR - H&M - Spring - Apr1 - Apr30,03/31/2025,04/30/2025,CPCV,,Delivered in Full,"37,092","1,038,587","1,106,889","1,038,691",1,,,Not Found,Not Found,Not Found,Not Found
+299212,ACRO - PepsiCo Star - Apr4 - Apr30 - BLS,45873,04/30/2025,CPCV,,Not Delivered in Full,"2,174","50,000","43,436","40,999",0.82,,,Not Found,Not Found,Not Found,Not Found
+299234,ACTR - Ford Trucks TR - Global Export - Apr11 - Apr30 - Germany,45934,04/30/2025,CPCV,,Delivered in Full,"35,000","700,000","747,754","700,129",1,,,Not Found,Not Found,Not Found,Not Found
+299235,ACTR - Ford Trucks TR - Global Export - Apr11 - Apr30 - France,45934,04/30/2025,CPCV,,Delivered in Full,"32,308","646,154","707,690","646,332",1,,,Not Found,Not Found,Not Found,Not Found
+299236,ACTR - Ford Trucks TR - Global Export - Apr11 - Apr30,45934,04/30/2025,CPCV,,Delivered in Full,"28,304","572,728","650,974","572,835",1,,,Not Found,Not Found,Not Found,Not Found
+299237,ACTR - Ford Trucks TR - Gen2 TR - Apr11 - Apr30 - Ford Trucks TR,45934,04/30/2025,CPCV,,Delivered in Full,"102,439","2,048,781","2,259,087","2,049,285",1,,,Not Found,Not Found,Not Found,Not Found
+299251,ACTR - Rinso TR - Rinso Toz - Apr11 - Apr30,04/15/2025,04/30/2025,CPCV,,Delivered in Full,"36,842","552,632","579,365","553,680",1,,,Not Found,Not Found,Not Found,Not Found
+299264,ACTR - Skala Medya TR - Golf TR - Roko - Apr22 - Apr30,04/21/2025,04/30/2025,CPCV,,Not Delivered in Full,"79,000","553,000","175,549","160,232",0.29,,,Not Found,Not Found,Not Found,Not Found
+299266,ACTR - EssenceMedia - BigBabol - Apr22 - Apr30,04/21/2025,04/30/2025,CPCV,,Delivered in Full,"60,000","186,137","196,835","187,499",1.01,,,Not Found,Not Found,Not Found,Not Found
+299289,ACTR - Speed Medya TR - Bim TR - Apr29 - Apr30,04/28/2025,04/30/2025,CPCV,,Delivered in Full,"600,000","955,000","1,029,374","958,351",1,,,Not Found,Not Found,Not Found,Not Found
+299298,ACTR - Turkcell - Zeka Gucu - Apr29 - Apr30,04/28/2025,04/30/2025,CPCV,,Not Delivered in Full,"405,263","405,263","118,114","86,072",0.21,,,Not Found,Not Found,Not Found,Not Found
+299303,ACTR - Speed Medya TR - Bim TR - Karma - Apr29 - Apr30,04/28/2025,04/30/2025,CPCV,,Delivered in Full,"400,000","716,000","796,726","730,469",1.02,,,Not Found,Not Found,Not Found,Not Found
+299310,ACTR - Turkcell - Zeka Gucu - Apr29 - Apr30 - New,04/29/2025,04/30/2025,CPCV,,Not Delivered in Full,"385,965","385,965","152,822","112,731",0.29,,,Not Found,Not Found,Not Found,Not Found
+299228,ACUK - WB Pics - The Accountant 2 - Apr7-Apr27 - Movie Goers,45812,04/27/2025,CPCV,,Not Delivered in Full,"52,000","600,000","701,083","586,380",0.98,,,Not Found,Not Found,Not Found,Not Found
+299229,ACUK - WB Pics - The Accountant 2 - Apr7-Apr27 - Action Fans,45812,04/27/2025,CPCV,,Not Delivered in Full,"52,000","600,000","709,822","591,279",0.99,,,Not Found,Not Found,Not Found,Not Found
+299027,ACRO - Beiersdorf APC Soft - Mar3 - April27,45811,04/27/2025,CPCV,,Not Delivered in Full,"5,000","515,000","561,699","514,987",1,,,Not Found,Not Found,Not Found,Not Found
+299012,ACCH - Blutspende - Mar3 - Apr27,45691,04/27/2025,CPCV,,Not Delivered in Full,"50,000","1,390,000","1,438,976","1,389,974",1,,,Not Found,Not Found,Not Found,Not Found
+299265,ACTR - Speed Medya TR - Bim TR - Apr22 - Apr27,04/21/2025,04/27/2025,CPCV,,Delivered in Full,"250,000","715,000","776,068","716,143",1,,,Not Found,Not Found,Not Found,Not Found
+299287,ACTR - Speed Medya TR - Bim TR - Apr26 - Apr27,04/25/2025,04/27/2025,CPCV,,Delivered in Full,"600,000","955,000","1,053,265","973,530",1.02,,,Not Found,Not Found,Not Found,Not Found
+299267,ACTR - Speed Medya TR - Bim TR - Apr22 - Apr24,04/21/2025,04/24/2025,CPCV,,Not Delivered in Full,"600,000","1,671,000","1,059,166","974,994",0.58,,,Not Found,Not Found,Not Found,Not Found
+299199,ACTR - Mediacom TR - Volkswagen TR - Tayron - Apr4 - Apr20,45720,04/20/2025,CPCV,,Delivered in Full,"90,000","1,750,000","1,909,166","1,750,709",1,,,Not Found,Not Found,Not Found,Not Found
+299222,ACRO - Mondelez - Oreo - Apr3 - Apr20,45934,04/20/2025,CPCV,,Not Delivered in Full,"29,000","295,000","321,338","293,271",0.99,,,Not Found,Not Found,Not Found,Not Found
+299252,ACRO - Mondelez - Oreo - Apr3 - Apr20 AV,45934,04/20/2025,CPCV,,Delivered in Full,"2,000","65,000","71,808","65,013",1,,,Not Found,Not Found,Not Found,Not Found
+299258,ACTR - Speed Medya TR - Bim TR - Apr19 - Apr20,04/18/2025,04/20/2025,CPCV,,Delivered in Full,"700,000","1,194,000","1,299,869","1,197,152",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299001,ACRO - Tchibo - Feb15 - April19,02/27/2025,04/19/2025,CPCV,,Not Delivered in Full,"2,000","320,000","344,863","316,648",0.99,,#N/A,Not Found,Not Found,Not Found,Not Found
+299054,ACRO - OLX Autovit - Mar7 - Apr18,45994,04/18/2025,CPCV,,Not Delivered in Full,"9,000","315,000","334,584","305,015",0.97,,#N/A,Not Found,Not Found,Not Found,Not Found
+299250,ACTR - Speed Medya TR - Bim TR - Apr16 - Apr17,04/15/2025,04/17/2025,CPCV,,Delivered in Full,"1,000,000","1,670,000","1,905,062","1,722,364",1.03,,#N/A,Not Found,Not Found,Not Found,Not Found
+299232,ACTR - Speed Medya TR - Bim TR - Apr12 - Apr13,45965,04/13/2025,CPCV,,Delivered in Full,"450,000","716,000","776,810","717,833",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299163,ACRO - McDonald's Employer - Mar21 - Apr11,03/28/2025,45965,CPCV,,Delivered in Full,"255,000","2,395,313","2,583,890","2,399,357",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299180,ACRO - McDonald's Employer - Mar21 - Apr11 - BLS,45751,45965,CPCV,,Not Delivered in Full,"6,250","50,000","7,704","7,072",0.14,,#N/A,Not Found,Not Found,Not Found,Not Found
+299206,ACRO - McDonald's Employer - Mar21 - Apr11 - AV,45842,45965,CPCV,,Not Delivered in Full,"60,000","290,000","319,118","282,778",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+299214,ACTR - Speed Medya TR - Bim TR - Apr9 - Apr10,45873,45934,CPCV,,Delivered in Full,"700,000","1,193,182","1,315,157","1,203,102",1.01,,299214,Gencay Evren,C-002028,DT,1136364
+298989,ACUK - OmniGov - DHSC StopSmoking - Feb25- Apr06,02/26/2025,45812,CPCV,"1,086,956",Not Delivered in Full,"50,000","1,000,000","954,967","911,951",0.91,,,Not Found,Not Found,Not Found,Not Found
+299078,ACBE - SpaceFwd - NickelBank - Mar17 - Apr6,03/16/2025,45812,CPCV,,Not Delivered in Full,"100,000","790,000","802,532","754,768",0.96,,,Not Found,Not Found,Not Found,Not Found
+299197,ACTR - Speed Medya TR - Bim TR - Apr5 - Apr6,45751,45812,CPCV,,Delivered in Full,"400,000","716,000","775,135","717,890",1,,,Not Found,Not Found,Not Found,Not Found
+299173,ACTR - Speed Medya TR - Bim TR - Apr2 - Apr3,45661,45720,CPCV,,Delivered in Full,"400,000","716,000","782,038","718,080",1,,,Not Found,Not Found,Not Found,Not Found
+299159,ACTR - Krombera TR - Istanbul Akvaryum - Mar28 - Apr1,03/27/2025,45661,CPCV,,Delivered in Full,"120,000","552,632","599,248","553,294",1,,,Not Found,Not Found,Not Found,Not Found
+298877,ACUK - OmniGov - DVLA - Jan20 - Mar31,01/24/2025,03/31/2025,CPCV,,Not Delivered in Full,"60,000","1,125,640","1,177,634","1,114,625",0.99,,,Not Found,Not Found,Not Found,Not Found
+299055,ACUK - Disney Simpsons 25 Q1 - Mar17 - Mar31,03/17/2025,03/31/2025,CPM,,Not Delivered in Full,"270,349","2,737,226","2,729,822","2,608,153",1,,,Not Found,Not Found,Not Found,Not Found
+298940,ACRO -   Publicis - Intersnack - Nutline- Feb7 - Mar31,45932,03/31/2025,CPCV,,Not Delivered in Full,"4,600","220,000","69,209","65,713",0.3,,,Not Found,Not Found,Not Found,Not Found
+299099,ACRO - Zenith L'Oreal True Match - Mar18 - Mar31,03/20/2025,03/31/2025,CPCV,,Delivered in Full,"29,000","290,000","314,943","290,145",1,,,Not Found,Not Found,Not Found,Not Found
+299157,ACRO - Zenith - Reckitt Benckiser Durex - Mar26 - Mar31,03/28/2025,03/31/2025,CPCV,,Not Delivered in Full,"120,000","320,000","344,807","317,703",0.99,,,Not Found,Not Found,Not Found,Not Found
+298839,ACTR - Sahibinden TR - Otobid - Jan9 - Mar31,45901,03/31/2025,CPCV,,Not Delivered in Full,"25,000","1,660,894","920,270","870,914",0.52,,,Not Found,Not Found,Not Found,Not Found
+299077,ACTR - Dentsu TR - Pegasus - Peki Simdi Nereye - Mar17 - Mar31,03/16/2025,03/31/2025,CPCV,,Not Delivered in Full,"87,000","1,141,304","849,260","741,167",0.65,,,Not Found,Not Found,Not Found,Not Found
+299091,ACTR - Bannerble TR - Belbim TR - Istanbulkart - Mar18 - Mar31,03/17/2025,03/31/2025,CPCV,,Not Delivered in Full,"46,000","552,632","66,010","57,508",0.1,,,Not Found,Not Found,Not Found,Not Found
+299094,ACTR - Bannerble TR - Belbim TR - Ramazan - Mar18 - Mar31,03/17/2025,03/31/2025,CPCV,,Not Delivered in Full,"46,000","552,632","63,238","57,595",0.1,,,Not Found,Not Found,Not Found,Not Found
+299129,ACTR - UM TR - Levis TR - Mar21 - Mar31,03/20/2025,03/31/2025,CPCV,,Not Delivered in Full,"141,414","1,272,727","458,078","417,602",0.33,,,Not Found,Not Found,Not Found,Not Found
+298931,ACUK - Royal Mail - Consumer Parcels - Feb09 - Mar30 Q1 Burst Thriving,45871,03/30/2025,CPM,,Not Delivered in Full,"9,000","414,583","408,345","400,389",0.99,,,Not Found,Not Found,Not Found,Not Found
+298932,ACUK - Royal Mail - Consumer Parcels - Feb09 - Mar30 Q1 Burst Young Explorers,45871,03/30/2025,CPM,,Not Delivered in Full,"8,300","414,647","403,843","393,231",0.97,,,Not Found,Not Found,Not Found,Not Found
+298965,ACRO - Fanta Xbox - Feb11 - Mar30,02/17/2025,03/30/2025,CPCV,,Not Delivered in Full,"11,200","450,000","474,156","449,919",1,,,Not Found,Not Found,Not Found,Not Found
+299073,ACRO - OMD - BRD - Mar13 - Mar30,03/17/2025,03/30/2025,CPCV,,Delivered in Full,"12,000","220,000","242,457","220,095",1,,,Not Found,Not Found,Not Found,Not Found
+299140,ACTR - HM TR - Spring - Mar24 - Mar30,03/23/2025,03/30/2025,CPCV,,Delivered in Full,"156,848","559,239","601,767","561,275",1,,,Not Found,Not Found,Not Found,Not Found
+299158,ACTR - Speed Medya TR - Bim TR - Mar28 - Mar30,03/27/2025,03/30/2025,CPCV,,Delivered in Full,"250,000","716,000","782,276","717,389",1,,,Not Found,Not Found,Not Found,Not Found
+299162,ACTR - Speed Medya TR - Bim TR - Mar29 - Mar30,03/28/2025,03/30/2025,CPCV,,Delivered in Full,"260,000","477,272","514,823","478,129",1,,,Not Found,Not Found,Not Found,Not Found
+299018,ACTR - PHD TR - Knorr TR - Soup - Mar4 - Mar29,45719,03/29/2025,CPCV,,Delivered in Full,"3,000","555,000","592,924","555,599",1,,,Not Found,Not Found,Not Found,Not Found
+299082,ACTR - EssenceMediacom TR - Fanta - Mar17 - Mar31,03/16/2025,03/29/2025,CPCV,,Delivered in Full,"250,000","1,657,894","1,792,711","1,659,213",1,,,Not Found,Not Found,Not Found,Not Found
+299068,ACTR - Vodafone - Ramazan Cark - Mar14 - Mar28,03/13/2025,03/28/2025,CPCV,,Delivered in Full,"63,000","820,313","892,205","820,476",1,,,Not Found,Not Found,Not Found,Not Found
+299072,ACTR - Speed Medya TR - Bim TR - Mar16 - Mar28,03/15/2025,03/28/2025,CPCV,,Delivered in Full,"100,000","1,193,182","1,270,798","1,193,584",1,,,Not Found,Not Found,Not Found,Not Found
+299145,ACTR - Speed Medya TR - Bim TR - Mar25 - Mar27,03/24/2025,03/27/2025,CPCV,,Delivered in Full,"250,000","716,000","778,291","726,301",1.01,,,Not Found,Not Found,Not Found,Not Found
+299103,ACTR - Speed Medya TR - Bim TR - Mar21 - Mar23,03/20/2025,03/23/2025,CPCV,,Not Delivered in Full,"238,636","715,909","174,268","157,864",0.22,,#N/A,Not Found,Not Found,Not Found,Not Found
+299127,ACTR - Speed Medya TR - Bim TR - Mar22 - Mar23,03/21/2025,03/23/2025,CPCV,,Delivered in Full,"450,000","715,909","778,134","717,768",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299092,ACTR - Speed Medya TR - Bim TR - Mar18 - Mar20,03/17/2025,03/20/2025,CPCV,,Delivered in Full,"350,000","954,546","1,035,500","956,882",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299093,ACTR - EssenceMediacom TR - Audi TR - Q6 E-Tron - Mar18 - Mar20,03/17/2025,03/20/2025,CPCV,,Delivered in Full,"400,000","1,050,000","1,175,486","1,052,356",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+298954,ACBE - SpaceFwd BE - Delhaize BE - Feb13 - Mar19,02/13/2025,03/19/2025,CPCV,,Not Delivered in Full,"5,700","187,500","197,766","186,891",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299071,ACTR - Speed Medya TR - Bim TR - Mar15 - Mar16,03/14/2025,03/16/2025,CPCV,,Delivered in Full,"400,000","715,909","767,121","717,771",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299060,ACTR - Speed Medya TR - Bim TR - Mar13 - Mar16,03/13/2025,03/16/2025,CPCV,,Delivered in Full,"200,000","715,909","763,856","717,209",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+298850,ACTR - Lego TR - City Consumer - Jan16 - Mar15,01/15/2025,03/15/2025,CPCV,2281250,Not Delivered in Full,"45,000","1,660,894","1,639,932","1,494,960",0.9,,#N/A,Not Found,Not Found,Not Found,Not Found
+299011,ACUK - Asda - Rollback - Dynamic - Mar 06 - Mar 14,45811,03/14/2025,CPCV,"989,130",Not Delivered in Full,"105,049","866,886","884,510","853,787",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+298926,ACTR - Vivaki TR - Lego TR - Duplo - Feb7 - Mar13,45810,03/13/2025,CPCV,"526,316",Not Delivered in Full,"32,700","1,077,632","1,172,924","1,077,280",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+299048,ACTR - Speed Medya TR - Bim TR - Mar11 - Mar13,45933,03/13/2025,CPCV,"454,545",Delivered in Full,"550,000","1,431,818","1,566,476","1,434,712",1,,#N/A,Not Found,Not Found,Not Found,Not Found
+298974,ACTR - Vodafone TR - 5.5G - Feb20 - Mar17,02/19/2025,45994,CPCV,"1,388,889",Delivered in Full,"150,000","1,458,333","1,641,231","1,458,957",1,,,Not Found,Not Found,Not Found,Not Found
+299019,ACTR - Minds2Lead TR - TME TR - Mickey - Mar4 - Mar12,45719,45994,CPCV,,Delivered in Full,"50,000","364,736","399,699","364,938",1,,,Not Found,Not Found,Not Found,Not Found
+298955,ACTR - BTC Turk - Kripto - Feb12 - Mar11,45963,45964,CPCV,,Not Delivered in Full,"40,000","832,000","943,643","828,895",1,,,Not Found,Not Found,Not Found,Not Found
+299022,ACTR - Vivaki TR - Disney+ - Daredevil - Mar5 - Mar11,45750,45964,CPCV,,Delivered in Full,"70,000","359,210","414,241","359,280",1,,,Not Found,Not Found,Not Found,Not Found
+298938,ACTR - OPN TR - Cosmos - Bizimyag - Feb10 - Mar10,45902,45933,CPCV,,Not Delivered in Full,"2,000","845,000","982,647","841,977",1,,,Gencay Evren,C-001629,DT,800000
+299034,ACTR - Speed Medya TR - Bim TR - Mar7 - Mar9,45811,45903,CPCV,,Delivered in Full,"300,000","715,909","779,061","717,576",1,,,Not Found,Not Found,Not Found,Not Found
+299036,ACTR - Speed Medya TR - Bim TR - Mar8 - Mar9,45841,45903,CPCV,,Delivered in Full,"500,000","715,909","798,076","718,515",1,,,Not Found,Not Found,Not Found,Not Found
+298816,ACUK - MGOMD - GOV UK - Navy Reserves Burst 2 Campaign Jan to March,45809,45841,CPCV,,Not Delivered in Full,0,"2,484,924","1,562,021","1,471,225",0.59,,,Not Found,Not Found,Not Found,Not Found
+299026,ACTR - Speed Medya TR - Bim TR - Mar6 - Mar6,45780,45811,CPCV,,Not Delivered in Full,"1,431,818","1,431,818","1,730,967","1,392,632",0.97,,,Not Found,Not Found,Not Found,Not Found
+299026,ACTR - Speed Medya TR - Bim TR - Mar6 - Mar6,45780,45811,CPM,,Not Delivered in Full,"500,000","500,000","87,833","58,276",0.18,,#N/A,Not Found,Not Found,Not Found,Not Found
+298845,ACUK - APX - Taco Bell Saver Menu - 14 Jan 03 Mar,01/14/2025,45780,CPCV,,Not Delivered in Full,"37,140","1,155,783","913,317","889,983",0.77,,#N/A,Not Found,Not Found,Not Found,Not Found
+295706,ACRO - Tusnad - Artensia - Oct30 - Dec24,01/24/2025,45719,CPCV,,Not Delivered in Full,"16,000","900,000","180,128","168,734",0.19,,#N/A,Not Found,Not Found,Not Found,Not Found
+298861,ACUK - Disney WDW Tickets 25 Q1 - Jan31 - Mar3,01/31/2025,45691,CPM,,Not Delivered in Full,"72,000","2,089,544","2,038,489","1,960,837",0.98,,#N/A,Not Found,Not Found,Not Found,Not Found
+298953,ACRO - Intersnack Pombar - Feb10 - Mar2,45963,45691,CPCV,"466,667",Not Delivered in Full,"2,000","221,000","232,933","220,935",1,,,Not Found,Not Found,Not Found,Not Found
+298898,ACTR - Is Bankasi TR - Iscep - Feb4 - Feb28,45718,02/28/2025,CPCV,,Not Delivered in Full,"39,773","875,000","959,222","874,647",1,,,Not Found,Not Found,Not Found,Not Found
+298862,ACRO - McDonalds - McCombo - Jan9 - Feb28 - BLS,01/20/2025,02/28/2025,CPM,,Not Delivered in Full,"1,315","50,000","41,368","35,352",0.83,,,Not Found,Not Found,Not Found,Not Found
+298782,ACTR - United People TR - ETS Tur - Erken Rezervasyon - Jan2 - Jan30,45658,02/28/2025,CPCV,,Not Delivered in Full,"3,000","1,145,304","302,532","284,831",0.25,,,Not Found,Not Found,Not Found,Not Found
+298817,ACTR - Mediacom TR - Mentos - Jan2 - Feb28,45689,02/28/2025,CPCV,,Not Delivered in Full,"2,000","920,160","590,068","562,065",0.61,,,Not Found,Not Found,Not Found,Not Found
+298865,ACTR - Lego TR - Friends - Jan20 - Feb28,01/19/2025,02/28/2025,CPCV,,Not Delivered in Full,"30,000","612,000","670,533","583,237",0.95,,,Not Found,Not Found,Not Found,Not Found
+298880,ACTR - Turkcell TR - Gameplus - Jan27 - Feb28,01/26/2025,02/28/2025,CPCV,,Not Delivered in Full,"333,000","1,275,727","1,497,372","1,272,861",1,,,Not Found,Not Found,Not Found,Not Found
+298902,ACTR - Vivaki TR - Kent Mondelez TR - Feb4 - Feb28,45718,02/28/2025,CPCV,,Not Delivered in Full,"49,987","552,632","588,164","552,309",1,,,Not Found,Not Found,Not Found,Not Found
+298915,ACTR - SEM TR - Migros TR - Money - Feb6 - Feb28,45779,02/28/2025,CPCV,,Not Delivered in Full,"3,000","830,948","882,386","829,656",1,,,Not Found,Not Found,Not Found,Not Found
+298959,ACTR - Maybelline TR - Teddy Tint - Feb13 - Feb28,45993,02/28/2025,CPCV,,Not Delivered in Full,"150,000","1,685,000","1,774,776","1,679,261",1,,,Not Found,Not Found,Not Found,Not Found
+298857,ACRO - McDonalds - McCombo - Jan9 - Feb28,01/16/2025,02/28/2025,CPCV,,Not Delivered in Full,"31,000","930,000","816,527","753,103",0.81,,,Not Found,Not Found,Not Found,Not Found
+298986,ACTR - Speed Medya TR - Bim TR - Feb25 - Feb27,02/24/2025,02/27/2025,CPCV,,Not Delivered in Full,"600,000","1,431,818","1,487,066","1,375,219",0.96,,,Not Found,Not Found,Not Found,Not Found
+298889,ACTR - GroupM TR - Amazon TR - Jan30 - Feb23,01/29/2025,02/23/2025,CPCV,,Not Delivered in Full,"153,000","3,500,000","3,696,889","3,485,869",1,,,Not Found,Not Found,Not Found,Not Found
+298929,ACTR - Vivaki TR - Disney+ TR - Umami - Feb7 - Feb23,45810,02/23/2025,CPCV,,Not Delivered in Full,"10,000","276,316","314,045","276,224",1,,,Not Found,Not Found,Not Found,Not Found
+298970,ACTR - Bim TR - 21 Subat - Feb19 - Feb20,02/18/2025,02/20/2025,CPCV,,Not Delivered in Full,"1,200,000","1,431,818","1,565,219","1,425,975",1,,,Not Found,Not Found,Not Found,Not Found
+298961,ACTR - Speed Medya TR - Bim TR - Feb13 - Feb16,02/13/2025,02/16/2025,CPCV,,Delivered in Full,"140,000","477,272","517,745","477,982",1,,,Not Found,Not Found,Not Found,Not Found
+298840,ACTR - Skoda TR - Kodiaq - Jan10 - Jan31,45992,02/15/2025,CPCV,,Not Delivered in Full,"55,000","705,000","350,493","328,843",0.47,,,Not Found,Not Found,Not Found,Not Found
+298848,ACTR - Akbank TR - Genclik Festivali - Jan16 - Feb15,01/15/2025,02/15/2025,CPCV,,Not Delivered in Full,"33,000","555,632","494,223","444,568",0.8,,,Not Found,Not Found,Not Found,Not Found
+298956,ACTR - Speed Medya TR - Bim TR - Feb12 - Feb14,45963,02/14/2025,CPCV,,Not Delivered in Full,"600,000","1,431,818","1,565,818","1,428,382",1,,,Not Found,Not Found,Not Found,Not Found
+298910,ACTR - Vivaki TR - Disney+ TR - Captain America - Feb5 - Feb13,45749,02/13/2025,CPCV,,Not Delivered in Full,"1,000","335,578","361,580","332,487",0.99,,,Not Found,Not Found,Not Found,Not Found
+298846,ACTR - Speed Medya TR - Bebeto TR - Freeze - Jan15 - Feb9,01/14/2025,45902,CPCV,,Not Delivered in Full,"1,000","383,818","242,490","225,861",0.59,,,Not Found,Not Found,Not Found,Not Found
+298928,ACTR - Speed Medya TR - Bim TR - Feb7 - Feb9,45810,45902,CPCV,,Not Delivered in Full,"300,000","715,909","775,226","713,544",1,,,Not Found,Not Found,Not Found,Not Found
+298912,ACTR - Speed Medya TR - Bim TR - Feb5 - Feb6,45749,45840,CPCV,,Not Delivered in Full,"955,000","954,546","1,051,772","951,414",1,,,Not Found,Not Found,Not Found,Not Found
+298863,ACTR - Vivaki TR - Disney+ - Jan20 - Feb5,01/19/2025,45779,CPCV,,Not Delivered in Full,"1,000","416,474","403,594","355,024",0.85,,,Not Found,Not Found,Not Found,Not Found
+298891,ACTR - Speed Medya TR - Bim TR - Jan31 - Feb3,01/30/2025,45718,CPCV,,Not Delivered in Full,"200,000","715,909","775,750","714,895",1,,,Not Found,Not Found,Not Found,Not Found
+298859,ACUK - PHd - WB Pics Companion - JanFeb25,01/20/2025,45690,CPCV,,Not Delivered in Full,"300,000","1,228,512","1,047,811","947,556",0.77,,,Not Found,Not Found,Not Found,Not Found
+298870,ACUK - PHd - WB Pics Companion - JanFeb25 RMI,01/21/2025,45690,CPM,,Not Delivered in Full,"214,258","2,999,613","131,180","3,101",0.04,,,Not Found,Not Found,Not Found,Not Found
+298843,ACTR - UIP TR - Kirpi Sonic - Jan13 - Jan31,01/13/2025,01/31/2025,CPCV,,Not Delivered in Full,"666,848","1,755,000","1,004,333","815,394",0.46,,,Not Found,Not Found,Not Found,Not Found
+298852,ACRO - Loreal - Firew - Jan10 - Jan31 25',01/17/2025,01/31/2025,CPCV,,Not Delivered in Full,"8,000","103,000","51,913","49,695",0.48,,,Not Found,Not Found,Not Found,Not Found
+298842,ACTR - Opet TR - Ultraforce - Jan1 - Jan31,01/13/2025,01/31/2025,CPCV,,Not Delivered in Full,"300,000","957,546","561,228","496,838",0.52,,,Not Found,Not Found,Not Found,Not Found
+298849,ACTR - PHD Agency TR - Eti TR - Crax - Jan16 - Jan31,01/15/2025,01/31/2025,CPCV,,Not Delivered in Full,"110,749","1,050,000","669,058","559,566",0.53,,,Not Found,Not Found,Not Found,Not Found
+298883,ACTR - Speed Medya TR - Bim TR - Jan29 - Jan30,01/28/2025,01/30/2025,CPCV,,Not Delivered in Full,"700,000","954,546","1,039,704","945,306",0.99,,,Not Found,Not Found,Not Found,Not Found
+299994,ACLAUS - Orci - Northgate Markets - Oct9 - Jan6,45910,46174,CPM,,Not Delivered in Full,500,"1,860,429","1,857,342","1,596,633",1,,,Idil Yurtan,C-003235,Mohamed Arsath,180000
+300209,ACDK - Nordisk Film DK (Hakan Brakan) - Dec8 - Jan4,45881,46113,CPCV,,Delivered in Full,"6,500","307,492","336,516","307,563",1,,,Sesil Kaprilyan,C-003506,Asli Ero,292850
+294782,Cale Brand Bidder Testing,02/25/2025,46023,CPM,,Not Delivered in Full,0,"1,000",152,28,0.15,,,Not Found,Not Found,Not Found,Not Found
+300309,ACKZ - Publicis - Meloman - Jan 1 - Jan 10,46023,46296,CPCV,,Not Delivered in Full,"150,000","1,343,333","8,930","7,959",0.01,,,Not Found,Not Found,Not Found,Not Found
+300310,ACKZ - Publicis - Meloman - Jan 1 - Jan 10 - Added Value,46023,46296,CPCV,,Not Delivered in Full,"76,000","676,666",507,464,0,,,Not Found,Not Found,Not Found,Not Found
+300311,ACKZ - Publicis Lego - Jan1 - Jan10,46023,46296,CPCV,,Delivered in Full,"200,000","1,350,000","1,565,840","1,353,052",1,,,Sesil Kaprilyan,C-003733,Asli Ero,1333333
+300312,ACKZ - Publicis Lego - Jan1 - Jan10 - AV,46023,46296,CPCV,,Not Delivered in Full,"80,000","670,000","728,218","646,750",0.97,,,Sesil Kaprilyan,C-003732,Asli Ero,666666
+300320,ACTR - Speed Medya TR - BiM TR - Jan7 - Jan9,46204,46266,CPCV,,Delivered in Full,"250,000","590,000","635,436","591,383",1,,,Yesim Utku,C-003756,Rajesh Kumar,588235
